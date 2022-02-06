@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\bin\Debug\RegistroPeso.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\bin\Debug\RegistroPeso.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\bin\Debug\RegistroPeso.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\RegistroPeso\RegistroPeso\obj\Debug\RegistroPeso.pdb

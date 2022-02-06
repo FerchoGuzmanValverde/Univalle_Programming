@@ -1,0 +1,12 @@
+﻿<Window x:Class="Arbol_Insersion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtIsertar" HorizontalAlignment="Left" Height="23" Margin="25,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnInsertar" Content="Insertar" HorizontalAlignment="Left" Margin="172,18,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnInsertar_Click"/>
+        <TextBox x:Name="txtMostrar" HorizontalAlignment="Left" Height="159" Margin="172,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="259"/>
+        <Button x:Name="btnMostrar" Content="Mostrar" HorizontalAlignment="Left" Margin="287,18,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnMostrar_Click"/>
+
+    </Grid>
+</Window>

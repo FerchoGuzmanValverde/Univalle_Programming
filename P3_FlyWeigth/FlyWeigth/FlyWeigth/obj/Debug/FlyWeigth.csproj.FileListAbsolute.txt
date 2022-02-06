@@ -1,0 +1,14 @@
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\bin\Debug\FlyWeigth.exe.config
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\MainWindow.baml
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth_MarkupCompile.cache
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.g.resources
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.Properties.Resources.resources
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\bin\Debug\FlyWeigth.exe
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\bin\Debug\FlyWeigth.pdb
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.exe
+C:\Users\Fernando Guzman\Downloads\FlyWeigth\FlyWeigth\obj\Debug\FlyWeigth.pdb

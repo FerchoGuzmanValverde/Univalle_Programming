@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\bin\Debug\EjeSOCKET33.exe.config
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\bin\Debug\EjeSOCKET33.exe
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\bin\Debug\EjeSOCKET33.pdb
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.exe
+C:\Users\usuario\Desktop\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.pdb
+G:\EjeSOCKET33\EjeSOCKET33\bin\Debug\EjeSOCKET33.exe.config
+G:\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.exe
+G:\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.pdb
+H:\EjemploSocketsClasesV1\EjeSOCKET33\EjeSOCKET33\bin\Debug\EjeSOCKET33.exe.config
+H:\EjemploSocketsClasesV1\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.exe
+H:\EjemploSocketsClasesV1\EjeSOCKET33\EjeSOCKET33\obj\Debug\EjeSOCKET33.pdb

@@ -1,0 +1,26 @@
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.exe.config
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.exe
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.pdb
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.csprojResolveAssemblyReference.cache
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\MainWindow.baml
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\MainWindow.g.cs
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\App.g.cs
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1_MarkupCompile.cache
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.g.resources
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.Properties.Resources.resources
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.csproj.GenerateResource.Cache
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.exe
+C:\Users\Gersonpc\Desktop\exposicion\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.pdb
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.exe.config
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.exe
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.pdb
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.exe
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\bin\Debug\treeview_ejem1.pdb
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.csprojResolveAssemblyReference.cache
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\MainWindow.baml
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\MainWindow.g.cs
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\App.g.cs
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1_MarkupCompile.cache
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.g.resources
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.Properties.Resources.resources
+C:\Users\univalle\Desktop\Grupo 2\treeview\treeview_ejem1\treeview_ejem1\obj\Debug\treeview_ejem1.csproj.GenerateResource.Cache

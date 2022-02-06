@@ -1,0 +1,14 @@
+﻿<Window x:Class="Porcentaje_de_alumnos_reprovados.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Porcentaje_de_alumnos_reprovados"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="204" Width="243.5">
+    <Grid>
+        <Button x:Name="btncalcular" Content="Tomar notas y verificar" HorizontalAlignment="Left" Margin="36,85,0,0" VerticalAlignment="Top" Width="166" Click="btncalcular_Click"/>
+        <Label Content="Porcentaje de alumnos reprovados" HorizontalAlignment="Left" Margin="26,31,0,0" VerticalAlignment="Top" Width="200"/>
+
+    </Grid>
+</Window>

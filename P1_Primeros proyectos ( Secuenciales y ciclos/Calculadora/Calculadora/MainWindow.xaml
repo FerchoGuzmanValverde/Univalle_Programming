@@ -1,0 +1,32 @@
+﻿<Window x:Class="Calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF869AF7" Offset="0.47"/>
+                <GradientStop Color="#FF869AF7" Offset="0.47"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Mi Calculadora" HorizontalAlignment="Left" Margin="201,10,0,0" VerticalAlignment="Top" Width="116"/>
+        <Label Content="Primer Numero" HorizontalAlignment="Left" Margin="36,54,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label Content="Segundo Numero" HorizontalAlignment="Left" Margin="36,85,0,0" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="txtnumero1" HorizontalAlignment="Left" Height="23" Margin="174,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtnumero2" HorizontalAlignment="Left" Height="23" Margin="174,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnmultiplicar" Content="Multiplicar" HorizontalAlignment="Left" Margin="351,88,0,0" VerticalAlignment="Top" Width="75" Click="btnmultiplicar_Click"/>
+        <Button x:Name="btnrestar" Content="Restar" HorizontalAlignment="Left" Margin="351,65,0,0" VerticalAlignment="Top" Width="75" Click="btnrestar_Click"/>
+        <Button x:Name="btndividir" Content="Dividir" HorizontalAlignment="Left" Margin="351,113,0,0" VerticalAlignment="Top" Width="75" Click="btndividir_Click"/>
+        <Button x:Name="btnsumar" Content="Sumar" HorizontalAlignment="Left" Margin="351,40,0,0" VerticalAlignment="Top" Width="75" Click="btnsumar_Click"/>
+        <Button x:Name="btnlimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="190,164,0,0" VerticalAlignment="Top" Width="75" Click="btnlimpiar_Click"/>
+        <Button x:Name="btnsalir" Content="Salir" HorizontalAlignment="Left" Margin="393,249,0,0" VerticalAlignment="Top" Width="75" Click="btnsalir_Click"/>
+        <Label Content="Resultado" HorizontalAlignment="Left" Margin="36,219,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label x:Name="lblresultado" Content="-----" HorizontalAlignment="Left" Margin="201,219,0,0" VerticalAlignment="Top" Width="116"/>
+
+    </Grid>
+</Window>

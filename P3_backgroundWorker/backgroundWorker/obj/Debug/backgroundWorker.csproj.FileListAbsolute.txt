@@ -1,0 +1,28 @@
+D:\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.exe.config
+D:\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.exe
+D:\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.pdb
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.csprojResolveAssemblyReference.cache
+D:\backgroundWorker\backgroundWorker\obj\Debug\MainWindow.g.cs
+D:\backgroundWorker\backgroundWorker\obj\Debug\App.g.cs
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker_MarkupCompile.cache
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker_MarkupCompile.lref
+D:\backgroundWorker\backgroundWorker\obj\Debug\MainWindow.baml
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.g.resources
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.Properties.Resources.resources
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.csproj.GenerateResource.Cache
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.exe
+D:\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.exe
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.exe
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\bin\Debug\backgroundWorker.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\backgroundWorker\backgroundWorker\obj\Debug\backgroundWorker.csproj.GenerateResource.Cache

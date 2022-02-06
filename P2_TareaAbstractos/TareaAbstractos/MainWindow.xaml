@@ -1,0 +1,13 @@
+﻿<Window x:Class="TareaAbstractos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TareaAbstractos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="136.644" Width="202.055">
+    <Grid>
+        <Button x:Name="btnejercicio1" Content="Ejercicio 1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="108" Height="35" Click="btnejercicio1_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\bin\Debug\archivos binarios.exe.config
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\bin\Debug\archivos binarios.exe
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\bin\Debug\archivos binarios.pdb
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios.csprojResolveAssemblyReference.cache
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\MainWindow.baml
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\MainWindow.g.cs
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\App.g.cs
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios_MarkupCompile.cache
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios.g.resources
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos_binarios.Properties.Resources.resources
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios.csproj.GenerateResource.Cache
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios.exe
+C:\Users\univalle\Desktop\archivos binarios\archivos binarios\obj\Debug\archivos binarios.pdb
+F:\archivos binarios\archivos binarios\bin\Debug\archivos binarios.exe.config
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios.exe
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios.pdb
+F:\archivos binarios\archivos binarios\bin\Debug\archivos binarios.exe
+F:\archivos binarios\archivos binarios\bin\Debug\archivos binarios.pdb
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios.csprojResolveAssemblyReference.cache
+F:\archivos binarios\archivos binarios\obj\Debug\MainWindow.baml
+F:\archivos binarios\archivos binarios\obj\Debug\MainWindow.g.cs
+F:\archivos binarios\archivos binarios\obj\Debug\App.g.cs
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios_MarkupCompile.cache
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios.g.resources
+F:\archivos binarios\archivos binarios\obj\Debug\archivos_binarios.Properties.Resources.resources
+F:\archivos binarios\archivos binarios\obj\Debug\archivos binarios.csproj.GenerateResource.Cache

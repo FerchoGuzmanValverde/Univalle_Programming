@@ -1,0 +1,15 @@
+﻿<Window x:Class="_40en1.vec2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_40en1"
+        mc:Ignorable="d"
+        Title="vec2" Height="212.586" Width="215.871" Background="#FF32DC21">
+    <Grid>
+        <Button x:Name="btncrear" Content="Ingresar " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="81" Click="btncrear_Click" Height="26" FontFamily="Showcard Gothic" Background="#FF69E445" BorderBrush="#FF0A0909"/>
+        <Button x:Name="btnmostrar" Content="Mostrar" HorizontalAlignment="Left" Margin="106,10,0,0" VerticalAlignment="Top" Width="81" Click="btnmostrar_Click" Height="26" FontFamily="Showcard Gothic" Background="#FF69E445" BorderBrush="#FF0A0909"/>
+        <TextBox x:Name="txthistograma" HorizontalAlignment="Left" Height="124" Margin="10,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Background="#FF71D361"/>
+
+    </Grid>
+</Window>

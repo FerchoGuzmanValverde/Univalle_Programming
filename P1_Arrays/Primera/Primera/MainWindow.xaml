@@ -1,0 +1,16 @@
+﻿<Window x:Class="Primera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primera"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="291.176" Width="267.647">
+    <Grid>
+        <TextBox x:Name="txtmostrar" HorizontalAlignment="Left" Height="160" Margin="18,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223"/>
+        <Button x:Name="btnaleatorio" Content="Aleatorio" HorizontalAlignment="Left" Margin="41,20,0,0" VerticalAlignment="Top" Width="75" Click="btnaleatorio_Click"/>
+        <Button x:Name="btnmanual" Content="Manual" HorizontalAlignment="Left" Margin="144,20,0,0" VerticalAlignment="Top" Width="75" Click="btnmanual_Click"/>
+        <Button x:Name="btnmostrar" Content="Mostrar" HorizontalAlignment="Left" Margin="92,219,0,0" VerticalAlignment="Top" Width="75" Click="btnmostrar_Click"/>
+
+    </Grid>
+</Window>

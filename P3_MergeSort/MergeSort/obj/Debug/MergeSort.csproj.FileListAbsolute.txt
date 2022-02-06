@@ -1,0 +1,26 @@
+c:\users\dsa\documents\visual studio 2013\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MainWindow.baml
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MainWindow.g.cs
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\App.g.cs
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort_MarkupCompile.cache
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.g.resources
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.Properties.Resources.resources
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.GenerateResource.Cache
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\DSA\documents\visual studio 2013\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+G:\Programacion III\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+G:\Programacion III\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+G:\Programacion III\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MainWindow.baml
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MainWindow.g.cs
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\App.g.cs
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort_MarkupCompile.cache
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.g.resources
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.Properties.Resources.resources
+G:\Programacion III\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.GenerateResource.Cache

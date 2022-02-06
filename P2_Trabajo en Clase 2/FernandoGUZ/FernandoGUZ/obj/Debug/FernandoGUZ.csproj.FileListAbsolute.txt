@@ -1,0 +1,29 @@
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\obj\Debug\FernandoGUZ.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\FernandoGUZ\FernandoGUZ\bin\Debug\FernandoGUZ.pdb

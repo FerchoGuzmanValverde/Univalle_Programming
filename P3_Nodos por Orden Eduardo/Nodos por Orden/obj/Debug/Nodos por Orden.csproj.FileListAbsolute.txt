@@ -1,0 +1,18 @@
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\bin\Debug\Nodos por Orden.exe.config
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\bin\Debug\Nodos por Orden.exe
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\bin\Debug\Nodos por Orden.pdb
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.csprojAssemblyReference.cache
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\App.g.cs
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden_MarkupCompile.cache
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden_MarkupCompile.lref
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\MainWindow.baml
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.g.resources
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos_por_Orden.Properties.Resources.resources
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.csproj.GenerateResource.cache
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.exe
+C:\Users\Eduardo Mercado Z\source\repos\Nodos por Orden\Nodos por Orden\obj\Debug\Nodos por Orden.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Nodos por Orden Eduardo\Nodos por Orden\bin\Debug\Nodos por Orden.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Nodos por Orden Eduardo\Nodos por Orden\obj\Debug\Nodos por Orden.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Nodos por Orden Eduardo\Nodos por Orden\obj\Debug\Nodos por Orden.pdb

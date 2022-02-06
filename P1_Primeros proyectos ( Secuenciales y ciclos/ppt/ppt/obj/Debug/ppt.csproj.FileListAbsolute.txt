@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\bin\Debug\ppt.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\bin\Debug\ppt.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\bin\Debug\ppt.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\ppt\ppt\obj\Debug\ppt.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\bin\Debug\ppt.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\bin\Debug\ppt.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\bin\Debug\ppt.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\ppt\ppt\obj\Debug\ppt.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="EjercicioSliderGrupo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EjercicioSliderGrupo1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Image x:Name="img1" Source="img/css3.png" Margin="18,17,415,224" Visibility="Hidden"/>
+        <Image x:Name="img2" Source="img/html5.png" Margin="213,22,220,219" Visibility="Hidden"/>
+        <Image x:Name="img3" Source="img/js.jpg" Margin="368,25,65,216" Visibility="Hidden"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="9,161,0,0" VerticalAlignment="Top" Width="500" Minimum="0" Maximum="10" TickFrequency="1" IsSnapToTickEnabled="True" ValueChanged="slider_ValueChanged"/>
+        <ProgressBar x:Name="progressbar" HorizontalAlignment="Left" Height="17" Margin="15,202,0,0" VerticalAlignment="Top" Width="484"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer\Timer\obj\Debug\Timer.pdb

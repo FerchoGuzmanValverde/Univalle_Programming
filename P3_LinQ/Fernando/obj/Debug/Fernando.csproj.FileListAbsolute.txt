@@ -1,0 +1,31 @@
+C:\Users\usuario\Desktop\Fernando\Fernando\bin\Debug\Fernando.exe.config
+C:\Users\usuario\Desktop\Fernando\Fernando\bin\Debug\Fernando.exe
+C:\Users\usuario\Desktop\Fernando\Fernando\bin\Debug\Fernando.pdb
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando_MarkupCompile.cache
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando_MarkupCompile.lref
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.g.resources
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.Properties.Resources.resources
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.exe
+C:\Users\usuario\Desktop\Fernando\Fernando\obj\Debug\Fernando.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\bin\Debug\Fernando.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.exe
+D:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\bin\Debug\Fernando.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.exe
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\bin\Debug\Fernando.exe
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\bin\Debug\Fernando.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\LinQ\Fernando\obj\Debug\Fernando.csproj.GenerateResource.Cache

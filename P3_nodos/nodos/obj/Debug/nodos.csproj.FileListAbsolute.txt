@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\nodos\nodos\bin\Debug\nodos.exe.config
+C:\Users\usuario\Desktop\nodos\nodos\bin\Debug\nodos.exe
+C:\Users\usuario\Desktop\nodos\nodos\bin\Debug\nodos.pdb
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos_MarkupCompile.cache
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos_MarkupCompile.lref
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.g.resources
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.Properties.Resources.resources
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.exe
+C:\Users\usuario\Desktop\nodos\nodos\obj\Debug\nodos.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\nodos\nodos\bin\Debug\nodos.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\nodos\nodos\obj\Debug\nodos.exe
+D:\Univalle\2 UNIVALLE\Programacion III\nodos\nodos\obj\Debug\nodos.pdb

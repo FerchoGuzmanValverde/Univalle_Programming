@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Release\SistemaTiendaAAA.exe.config
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Release\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Release\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\MainWindow.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\App.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA_MarkupCompile.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA_MarkupCompile.lref
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\MainWindow.baml
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.g.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.Properties.Resources.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Release\SistemaTiendaAAA.pdb

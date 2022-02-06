@@ -1,0 +1,88 @@
+﻿<Window x:Class="UltimaExpocicion2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UltimaExpocicion2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TreeView>
+            <TreeViewItem IsExpanded="True">
+                <TreeViewItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                        <TextBlock Text="Acceso Rapido" Foreground="Black"></TextBlock>
+                    </StackPanel>
+                </TreeViewItem.Header>
+            </TreeViewItem>
+            <TreeViewItem>
+                <TreeViewItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                        <TextBlock Text="One Drive"></TextBlock>
+                    </StackPanel>
+                </TreeViewItem.Header>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                            <TextBlock Text="Datos adjuntos de correo electronico"></TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                            <TextBlock Text="Documentos"></TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+                <TreeViewItem>
+                    <TreeViewItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                            <TextBlock Text="Imagenes"></TextBlock>
+                        </StackPanel>
+                    </TreeViewItem.Header>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem>
+                <TreeViewItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                        <TextBlock Text="Este Equipo"></TextBlock>
+                    </StackPanel>
+                </TreeViewItem.Header>
+            </TreeViewItem>
+            <TreeViewItem>
+                <TreeViewItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="imagenes/pasto.jpg" Height="30" Width="30"/>
+                        <TextBlock Text="Red"></TextBlock>
+                    </StackPanel>
+                </TreeViewItem.Header>
+            </TreeViewItem>
+            <DatePicker Height="63" Width="160">
+                <DatePicker.BlackoutDates>
+                    <CalendarDateRange Start="1/2/19" End="1/2/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/4/19" End="1/4/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/6/19" End="1/6/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/8/19" End="1/8/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/10/19" End="1/10/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/12/19" End="1/12/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/14/19" End="1/14/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/16/19" End="1/16/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/18/19" End="1/18/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/20/19" End="1/20/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/22/19" End="1/22/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/24/19" End="1/24/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/26/19" End="1/26/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/28/19" End="1/28/19"></CalendarDateRange>
+                    <CalendarDateRange Start="1/30/19" End="1/30/19"></CalendarDateRange>
+                </DatePicker.BlackoutDates>
+            </DatePicker>
+        </TreeView>
+    </Grid>
+</Window>

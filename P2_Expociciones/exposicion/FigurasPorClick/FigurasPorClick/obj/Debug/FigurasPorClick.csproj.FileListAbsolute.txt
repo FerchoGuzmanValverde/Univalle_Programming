@@ -1,0 +1,61 @@
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.g.cs
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\App.g.cs
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.cache
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.lref
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe.config
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.pdb
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.baml
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.g.resources
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.Properties.Resources.resources
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.exe
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.pdb
+c:\users\asus\source\repos\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csprojResolveAssemblyReference.cache
+E:\canvas\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe.config
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.exe
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.pdb
+E:\canvas\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe
+E:\canvas\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.pdb
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csprojResolveAssemblyReference.cache
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.g.cs
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\App.g.cs
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.cache
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.lref
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.baml
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.g.resources
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.Properties.Resources.resources
+E:\canvas\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.GenerateResource.Cache
+E:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe.config
+E:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.exe
+E:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.pdb
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe.config
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.exe
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.pdb
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.pdb
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csprojResolveAssemblyReference.cache
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.g.cs
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\App.g.cs
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.cache
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.lref
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.baml
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.g.resources
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.Properties.Resources.resources
+G:\2do semestre\PROGRAMACION II\EXPOSICION CANVAS\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.GenerateResource.Cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe.config
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\bin\Debug\FigurasPorClick.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\App.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick_MarkupCompile.lref
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\MainWindow.baml
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.g.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.Properties.Resources.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.GenerateResource.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.csproj.CoreCompileInputs.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\exposicion\FigurasPorClick\FigurasPorClick\obj\Debug\FigurasPorClick.pdb

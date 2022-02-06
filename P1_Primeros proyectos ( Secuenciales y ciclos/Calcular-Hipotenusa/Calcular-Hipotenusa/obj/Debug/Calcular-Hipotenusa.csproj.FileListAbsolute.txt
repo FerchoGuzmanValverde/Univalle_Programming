@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\bin\Debug\Calcular-Hipotenusa.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\bin\Debug\Calcular-Hipotenusa.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\bin\Debug\Calcular-Hipotenusa.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular_Hipotenusa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Calcular-Hipotenusa\Calcular-Hipotenusa\obj\Debug\Calcular-Hipotenusa.pdb

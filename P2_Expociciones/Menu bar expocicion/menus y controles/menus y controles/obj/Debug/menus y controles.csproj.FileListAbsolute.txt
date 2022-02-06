@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\bin\Debug\menus y controles.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\bin\Debug\menus y controles.exe
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\bin\Debug\menus y controles.pdb
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles.g.resources
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus_y_controles.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles.exe
+c:\users\asus\documents\visual studio 2013\Projects\menus y controles\menus y controles\obj\Debug\menus y controles.pdb
+G:\exposicion\menus y controles\menus y controles\bin\Debug\menus y controles.exe.config
+G:\exposicion\menus y controles\menus y controles\obj\Debug\menus y controles.exe
+G:\exposicion\menus y controles\menus y controles\obj\Debug\menus y controles.pdb

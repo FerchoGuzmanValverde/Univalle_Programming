@@ -1,0 +1,14 @@
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\bin\Debug\Delegados.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\bin\Debug\Delegados.exe
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\bin\Debug\Delegados.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.exe
+G:\Univalle\2 UNIVALLE\Programacion III\Delegados\Delegados\obj\Debug\Delegados.pdb

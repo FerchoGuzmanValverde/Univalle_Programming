@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb

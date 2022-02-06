@@ -1,0 +1,29 @@
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.exe.config
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.exe
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.pdb
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.csprojResolveAssemblyReference.cache
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\MainWindow.g.cs
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\App.g.cs
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel_MarkupCompile.cache
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel_MarkupCompile.lref
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\MainWindow.baml
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.g.resources
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.Properties.Resources.resources
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.csproj.GenerateResource.Cache
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.csproj.CoreCompileInputs.cache
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.exe
+C:\2do Semestre\Programacion ll\Explicacion y Ejemplos\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.pdb
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.exe.config
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.exe
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.pdb
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.exe
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\bin\Debug\EjemploStackPanel.pdb
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.csprojResolveAssemblyReference.cache
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\MainWindow.g.cs
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\App.g.cs
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel_MarkupCompile.cache
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel_MarkupCompile.lref
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\MainWindow.baml
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.g.resources
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.Properties.Resources.resources
+G:\Programacion ll\Ejemplos\Proyecto_03.09.2018\EjemploStackPanel\EjemploStackPanel\obj\Debug\EjemploStackPanel.csproj.GenerateResource.Cache

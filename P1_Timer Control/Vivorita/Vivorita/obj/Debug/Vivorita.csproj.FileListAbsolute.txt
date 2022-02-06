@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\bin\Debug\Vivorita.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\bin\Debug\Vivorita.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\bin\Debug\Vivorita.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Vivorita\Vivorita\obj\Debug\Vivorita.pdb

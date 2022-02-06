@@ -1,0 +1,24 @@
+﻿<Window x:Class="Calificacion_final_MC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calificacion_final_MC"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Nota final de MC" HorizontalAlignment="Left" Margin="136,21,0,0" VerticalAlignment="Top" Width="189"/>
+        <Label Content="1ra nota" HorizontalAlignment="Left" Margin="52,47,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="2da nota" HorizontalAlignment="Left" Margin="52,78,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="3er nota" HorizontalAlignment="Left" Margin="52,109,0,0" VerticalAlignment="Top" Width="68"/>
+        <TextBox x:Name="txtnota1" HorizontalAlignment="Left" Height="23" Margin="168,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtnota2" HorizontalAlignment="Left" Height="23" Margin="168,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtnota3" HorizontalAlignment="Left" Height="23" Margin="168,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="136,149,0,0" VerticalAlignment="Top" Width="75" Click="btnCalcular_Click"/>
+        <Label Content="Nota final es: " HorizontalAlignment="Left" Margin="69,259,0,0" VerticalAlignment="Top" Width="109"/>
+        <Label Content="1ro y 2do examen son 70%" HorizontalAlignment="Left" Margin="110,189,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="3er examen son 30%" HorizontalAlignment="Left" Margin="110,220,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label x:Name="lblnotafinal" Content="" HorizontalAlignment="Left" Margin="183,259,0,0" VerticalAlignment="Top" Width="196"/>
+
+    </Grid>
+</Window>

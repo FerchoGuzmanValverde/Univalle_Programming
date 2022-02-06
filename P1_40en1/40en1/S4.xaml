@@ -1,0 +1,26 @@
+﻿<Window x:Class="_40en1.S4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_40en1"
+        mc:Ignorable="d"
+        Title="S4" Height="276.37" Width="253.425" Background="#FFF70606">
+    <Grid>
+        <Label Content="Distribucion a Hijos" HorizontalAlignment="Left" Margin="46,10,0,0" VerticalAlignment="Top" Width="142" FontFamily="Showcard Gothic"/>
+        <Label Content="Capital:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="65"/>
+        <TextBox x:Name="txtcapital" HorizontalAlignment="Left" Height="23" Margin="80,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFF58989"/>
+        <Button x:Name="btnrepartir" Content="Repartir" HorizontalAlignment="Left" Margin="59,73,0,0" VerticalAlignment="Top" Width="116" Click="btnrepartir_Click" FontFamily="Showcard Gothic" Background="#FFF30D0D" BorderBrush="#FF110909"/>
+        <GroupBox Header="Reparto" HorizontalAlignment="Left" Height="129" Margin="10,93,0,0" VerticalAlignment="Top" Width="221" BorderBrush="#FF050708">
+            <Grid HorizontalAlignment="Left" Height="108" VerticalAlignment="Top" Width="211" Margin="0,0,-2,-1">
+                <Label Content="Hijo 1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5,0,0"/>
+                <Label Content="Hijo 2:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+                <Label Content="Hijo 3:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblprimero" Content="----" HorizontalAlignment="Left" Margin="72,5,0,0" VerticalAlignment="Top" Width="55"/>
+                <Label x:Name="lblsegundo" Content="----" HorizontalAlignment="Left" Margin="72,36,0,0" VerticalAlignment="Top" Width="55"/>
+                <Label x:Name="lbltercero" Content="----" HorizontalAlignment="Left" Margin="72,72,0,0" VerticalAlignment="Top" Width="55"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

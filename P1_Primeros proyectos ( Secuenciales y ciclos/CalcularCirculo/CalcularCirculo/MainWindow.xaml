@@ -1,0 +1,26 @@
+﻿<Window x:Class="CalcularCirculo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalcularCirculo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,2,4">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="White"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Ingresa un numero" HorizontalAlignment="Left" Margin="67,93,0,0" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtnumero" HorizontalAlignment="Left" Height="23" Margin="233,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="btncalcular" Content="Calcular" HorizontalAlignment="Left" Margin="175,150,0,0" VerticalAlignment="Top" Width="75" Click="btncalcular_Click"/>
+        <Label Content="Resultado" HorizontalAlignment="Left" Margin="65,208,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="lblresultado" Content="" HorizontalAlignment="Left" Margin="212,208,0,0" VerticalAlignment="Top" Width="111" IsEnabled="False"/>
+        <Label Content="Calcular Area de un circulo" HorizontalAlignment="Left" Margin="175,24,0,0" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="btnborrar" Content="Borrar" HorizontalAlignment="Left" Margin="278,150,0,0" VerticalAlignment="Top" Width="75" Click="btnborrar_Click"/>
+        <Button x:Name="lblsalir" Content="Salir" HorizontalAlignment="Left" Margin="410,244,0,0" VerticalAlignment="Top" Width="71" Height="26" Click="lblsalir_Click"/>
+
+    </Grid>
+</Window>

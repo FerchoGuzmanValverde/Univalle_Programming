@@ -1,0 +1,25 @@
+﻿<Window x:Class="Timer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Timer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="312.953" Width="430.084">
+    <Grid>
+        <Label Content="Horas" HorizontalAlignment="Left" Margin="27,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Minutos" HorizontalAlignment="Left" Margin="112,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Segundos" HorizontalAlignment="Left" Margin="207,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Milisegundos" HorizontalAlignment="Left" Margin="305,26,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblhoras" Content="**" HorizontalAlignment="Left" Margin="27,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblminutos" Content="**" HorizontalAlignment="Left" Margin="120,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblsegundos" Content="**" HorizontalAlignment="Left" Margin="220,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblmilisegundos" Content="**" HorizontalAlignment="Left" Margin="314,71,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btniniciar" Content="Iniciar" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top" Width="75" Click="btniniciar_Click"/>
+        <Button x:Name="btnpausa" Content="Pausa" HorizontalAlignment="Left" Margin="101,112,0,0" VerticalAlignment="Top" Width="75" Click="btnpausa_Click"/>
+        <Button x:Name="btndetener" Content="Detener" HorizontalAlignment="Left" Margin="200,112,0,0" VerticalAlignment="Top" Width="75" Click="btndetener_Click"/>
+        <Button x:Name="btngrabar" Content="Grabar" HorizontalAlignment="Left" Margin="297,112,0,0" VerticalAlignment="Top" Width="75" Click="btngrabar_Click"/>
+        <ListBox x:Name="lstmostrar" HorizontalAlignment="Left" Height="86" Margin="66,157,0,0" VerticalAlignment="Top" Width="251"/>
+
+    </Grid>
+</Window>

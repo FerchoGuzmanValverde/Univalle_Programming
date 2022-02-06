@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\bin\Debug\StudentDetails.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\bin\Debug\StudentDetails.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\StudentDetails\StudentDetails\obj\Debug\StudentDetails.pdb

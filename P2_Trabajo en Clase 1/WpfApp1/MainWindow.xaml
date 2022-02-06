@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="320.548" Width="716.781">
+    <Grid>
+        <GroupBox Header="Ejercicio 1" HorizontalAlignment="Left" Height="255" Margin="10,10,0,0" VerticalAlignment="Top" Width="311">
+            <Grid HorizontalAlignment="Left" Height="238" VerticalAlignment="Top" Width="296">
+                <Label Content="Nombre:" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top"/>
+                <Label Content="Fecha de Nacimiento:" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtnacimiento" HorizontalAlignment="Left" Height="23" Margin="147,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtactual" HorizontalAlignment="Left" Height="23" Margin="147,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Button Content="Calcular edad" HorizontalAlignment="Left" Margin="28,123,0,0" VerticalAlignment="Top" Width="87" Height="30" Click="Button_Click"/>
+                <Button Content="Soy Mayor?" HorizontalAlignment="Left" Margin="138,123,0,0" VerticalAlignment="Top" Width="84" Height="30" Click="Button_Click_1"/>
+                <Label x:Name="lblrespuesta" Content="---" HorizontalAlignment="Left" Margin="19,179,0,0" VerticalAlignment="Top" Width="219"/>
+            </Grid>
+        </GroupBox>
+        <Label Content="Fecha Actual:" HorizontalAlignment="Left" Margin="29,112,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtnombre" HorizontalAlignment="Left" Height="23" Margin="163,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <GroupBox Header="Ejercicio 2" HorizontalAlignment="Left" Height="255" Margin="326,10,0,0" VerticalAlignment="Top" Width="358">
+            <Grid HorizontalAlignment="Left" Height="234" VerticalAlignment="Top" Width="348" Margin="0,0,-2,-1">
+                <Label Content="Nombre:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <Label Content="Nota 1:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                <Label Content="Nota 2:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+                <Label Content="Nota Final:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtnombre1" HorizontalAlignment="Left" Height="23" Margin="96,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtnota1" HorizontalAlignment="Left" Height="23" Margin="96,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtnota2" HorizontalAlignment="Left" Height="23" Margin="96,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtnota3" HorizontalAlignment="Left" Height="23" Margin="96,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="btncalcular" Content="Calular Nota" HorizontalAlignment="Left" Margin="243,26,0,0" VerticalAlignment="Top" Width="86" Height="41" Click="btncalcular_Click"/>
+                <Button x:Name="btnaprobado" Content="Aprove?" HorizontalAlignment="Left" Margin="243,78,0,0" VerticalAlignment="Top" Width="86" Height="41" Click="btnaprobado_Click"/>
+                <Label x:Name="lblresultado" Content="---" HorizontalAlignment="Left" Margin="77,158,0,0" VerticalAlignment="Top" Width="196"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

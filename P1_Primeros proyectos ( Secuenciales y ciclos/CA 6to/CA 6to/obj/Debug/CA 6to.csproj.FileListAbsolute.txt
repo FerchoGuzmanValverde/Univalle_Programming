@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\bin\Debug\CA 6to.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\bin\Debug\CA 6to.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\bin\Debug\CA 6to.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA_6to.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 6to\CA 6to\obj\Debug\CA 6to.pdb

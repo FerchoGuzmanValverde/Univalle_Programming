@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\bin\Debug\Peso de alumnos.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\bin\Debug\Peso de alumnos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\bin\Debug\Peso de alumnos.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso_de_alumnos.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Peso de alumnos\Peso de alumnos\obj\Debug\Peso de alumnos.pdb

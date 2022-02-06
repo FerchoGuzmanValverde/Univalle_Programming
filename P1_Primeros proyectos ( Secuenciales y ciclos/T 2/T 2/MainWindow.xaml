@@ -1,0 +1,59 @@
+﻿<Window x:Name="T_2" x:Class="T_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="378.191" Width="369.149" AllowsTransparency="True" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\T 2\T 2\Resources\pillame.jpg"/>
+    </Window.Background>
+    <Grid Loaded="Grid_Loaded">
+        <Label x:Name="lbl1" Content="*" HorizontalAlignment="Left" Margin="39,24,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl2" Content="*" HorizontalAlignment="Left" Margin="39,55,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl3" Content="*" HorizontalAlignment="Left" Margin="98,24,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl4" Content="*" HorizontalAlignment="Left" Margin="98,55,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl5" Content="*" HorizontalAlignment="Left" Margin="167,24,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl6" Content="*" HorizontalAlignment="Left" Margin="167,55,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl7" Content="*" HorizontalAlignment="Left" Margin="229,24,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl8" Content="*" HorizontalAlignment="Left" Margin="229,55,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl9" Content="*" HorizontalAlignment="Left" Margin="285,24,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Label x:Name="lbl10" Content="*" HorizontalAlignment="Left" Margin="285,55,0,0" VerticalAlignment="Top" Background="#FFC23BEA"/>
+        <Button x:Name="btncalcular" Content="Verificar" HorizontalAlignment="Left" Margin="39,128,0,0" VerticalAlignment="Top" Width="168" Click="btncalcular_Click" Background="#FF6EEA27" FontFamily="Showcard Gothic"/>
+        <GroupBox Header="Operacion" HorizontalAlignment="Left" Height="154" Margin="67,168,0,0" VerticalAlignment="Top" Width="133" Background="#FFA9CCFF" FontFamily="Arial Rounded MT Bold">
+            <Grid HorizontalAlignment="Left" Height="121" Margin="0,10,-2,0" VerticalAlignment="Top" Width="123">
+                <RadioButton x:Name="rbtsuma" Content="suma" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" Background="#FF4BC505"/>
+                <RadioButton x:Name="rbtresta" Content="resta" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Background="#FF6FD632"/>
+                <RadioButton x:Name="rbtproducto" Content="producto" HorizontalAlignment="Left" Margin="10,69,0,37" Background="#FF60DE17"/>
+                <RadioButton x:Name="rbtdivision" Content="division" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" Height="20" Width="68" Background="#FF62D122"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Resultados" HorizontalAlignment="Left" Height="154" Margin="205,168,0,0" VerticalAlignment="Top" Width="136" Background="#FFB6D3EC" FontFamily="Arial Rounded MT Bold">
+            <Grid HorizontalAlignment="Left" Height="123" Margin="0,10,-2,-1" VerticalAlignment="Top" Width="126">
+                <Label Content="correctos" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top"/>
+                <Label Content="incorrectos" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblcorrectos" Content="---" HorizontalAlignment="Left" Margin="78,24,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblincorrectos" Content="---" HorizontalAlignment="Left" Margin="78,69,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="btnnuevo" Content="Nuevo" HorizontalAlignment="Left" Margin="248,113,0,0" VerticalAlignment="Top" Width="75" Click="btnnuevo_Click" Background="#FF45E62C" FontFamily="Showcard Gothic"/>
+        <Button x:Name="btnsalir" Content="Salir" HorizontalAlignment="Left" Margin="248,143,0,0" VerticalAlignment="Top" Width="75" Click="btnsalir_Click" Background="#FF52F12E" FontFamily="Showcard Gothic"/>
+        <Border CornerRadius="5" BorderThickness="1" BorderBrush="Black" Margin="39,81,296,272">
+            <TextBox Background="Transparent" BorderThickness="0" Name="txtr1" Margin="-1" />
+        </Border>
+        <Border CornerRadius="5" BorderThickness="1" BorderBrush="Black" Margin="285,81,55,272">
+            <TextBox Background="Transparent" BorderThickness="0" x:Name="txtr5" Margin="0,0,-1,-1" RenderTransformOrigin="0.171,-1.959" />
+        </Border>
+        <Border CornerRadius="5" BorderThickness="1" BorderBrush="Black" Margin="229,81,109,272">
+            <TextBox Background="Transparent" BorderThickness="0" x:Name="txtr4" Margin="0,-1,-1,0" />
+        </Border>
+        <Border CornerRadius="5" BorderThickness="1" BorderBrush="Black" Margin="167,81,169,272">
+            <TextBox Background="Transparent" BorderThickness="0" x:Name="txtr3" Margin="0,-1,-1,-1" />
+        </Border>
+        <Border CornerRadius="5" BorderThickness="1" BorderBrush="Black" Margin="98,81,238,272">
+            <TextBox Background="Transparent" BorderThickness="0" x:Name="txtr2" Margin="0,0,-1,-1" Height="24" VerticalAlignment="Top" />
+        </Border>
+        <Image HorizontalAlignment="Left" Height="66" Margin="5,184,0,0" VerticalAlignment="Top" Width="62" Source="Resources/animated math.gif"/>
+    </Grid>
+</Window>

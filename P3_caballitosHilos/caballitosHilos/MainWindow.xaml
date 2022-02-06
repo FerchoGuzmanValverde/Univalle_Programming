@@ -1,0 +1,24 @@
+﻿<Window x:Class="caballitosHilos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="437.037" Width="525">
+    <Grid>
+        <Rectangle x:Name="c1" HorizontalAlignment="Left" Height="77" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="imagenes/chucho.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="c2" HorizontalAlignment="Left" Height="77" Margin="10,106,0,0" VerticalAlignment="Top" Width="100">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="imagenes/caballo1.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="c3" HorizontalAlignment="Left" Height="77" Margin="10,214,0,0" VerticalAlignment="Top" Width="100" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="imagenes/potro.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="btnIniciar" Content="Iniciar" HorizontalAlignment="Left" Margin="151,320,0,0" VerticalAlignment="Top" Width="175" Click="btnIniciar_Click" Height="55"/>
+
+    </Grid>
+</Window>

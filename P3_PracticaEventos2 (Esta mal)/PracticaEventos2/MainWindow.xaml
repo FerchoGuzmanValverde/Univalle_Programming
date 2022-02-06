@@ -1,0 +1,14 @@
+﻿<Window x:Class="PracticaEventos2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" Width="75" Height="35" Click="btnRegistrar_Click"/>
+        <Button x:Name="btnDatos" Content="Ver DSatos" HorizontalAlignment="Left" Margin="22,45,0,0" VerticalAlignment="Top" Width="75" Height="39" Click="btnDatos_Click"/>
+        <Label x:Name="lbl" Content="Registro" HorizontalAlignment="Left" Margin="246,15,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstRegistro" HorizontalAlignment="Left" Height="156" Margin="135,46,0,0" VerticalAlignment="Top" Width="330"/>
+        <Label Content="Status:" HorizontalAlignment="Left" Margin="81,235,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblStatus" Content="------" HorizontalAlignment="Left" Margin="150,235,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

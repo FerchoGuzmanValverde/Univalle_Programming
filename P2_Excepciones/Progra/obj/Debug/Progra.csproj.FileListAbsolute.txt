@@ -1,0 +1,13 @@
+F:\Progra\Progra\bin\Debug\Progra.exe.config
+F:\Progra\Progra\bin\Debug\Progra.exe
+F:\Progra\Progra\bin\Debug\Progra.pdb
+F:\Progra\Progra\obj\Debug\Progra.csprojResolveAssemblyReference.cache
+F:\Progra\Progra\obj\Debug\MainWindow.baml
+F:\Progra\Progra\obj\Debug\MainWindow.g.cs
+F:\Progra\Progra\obj\Debug\App.g.cs
+F:\Progra\Progra\obj\Debug\Progra_MarkupCompile.cache
+F:\Progra\Progra\obj\Debug\Progra.g.resources
+F:\Progra\Progra\obj\Debug\Progra.Properties.Resources.resources
+F:\Progra\Progra\obj\Debug\Progra.csproj.GenerateResource.Cache
+F:\Progra\Progra\obj\Debug\Progra.exe
+F:\Progra\Progra\obj\Debug\Progra.pdb

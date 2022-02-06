@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\bin\Debug\Segunda.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Segunda\Segunda\obj\Debug\Segunda.pdb

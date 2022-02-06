@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\bin\Debug\CA 2do.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\bin\Debug\CA 2do.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\bin\Debug\CA 2do.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA_2do.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 2do\CA 2do\obj\Debug\CA 2do.pdb

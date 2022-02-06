@@ -1,0 +1,13 @@
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\bin\Debug\NodosEnlazadosComoMatriz.exe.config
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\bin\Debug\NodosEnlazadosComoMatriz.exe
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\bin\Debug\NodosEnlazadosComoMatriz.pdb
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.csprojResolveAssemblyReference.cache
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\MainWindow.baml
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\MainWindow.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\App.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz_MarkupCompile.cache
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.g.resources
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.Properties.Resources.resources
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.csproj.GenerateResource.Cache
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.exe
+c:\users\dsa\documents\visual studio 2013\Projects\NodosEnlazadosComoMatriz\NodosEnlazadosComoMatriz\obj\Debug\NodosEnlazadosComoMatriz.pdb

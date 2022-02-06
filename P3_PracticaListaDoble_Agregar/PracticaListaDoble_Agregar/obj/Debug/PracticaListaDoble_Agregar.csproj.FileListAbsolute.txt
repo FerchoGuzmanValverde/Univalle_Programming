@@ -1,0 +1,16 @@
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\bin\Debug\PracticaListaDoble_Agregar.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\bin\Debug\PracticaListaDoble_Agregar.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\bin\Debug\PracticaListaDoble_Agregar.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\bin\Debug\PracticaListaDoble_Agregar.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.exe
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaListaDoble_Agregar\PracticaListaDoble_Agregar\obj\Debug\PracticaListaDoble_Agregar.pdb

@@ -1,0 +1,22 @@
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\bin\Debug\5herencia.exe.config
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\bin\Debug\5herencia.exe
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\bin\Debug\5herencia.pdb
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.csprojAssemblyReference.cache
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\MainWindow.g.cs
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\App.g.cs
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia_MarkupCompile.cache
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia_MarkupCompile.lref
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\MainWindow.baml
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.g.resources
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\_5herencia.Properties.Resources.resources
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.csproj.GenerateResource.cache
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.exe
+C:\Users\Ramiro\Desktop\WPF\5herencia\5herencia\obj\Debug\5herencia.pdb
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\bin\Debug\5herencia.exe.config
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\5herencia.exe
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\5herencia.pdb
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\MainWindow.g.cs
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\App.g.cs
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\5herencia_MarkupCompile.cache
+C:\Users\univalle\Desktop\Nueva carpeta\5herencia\5herencia\obj\Debug\5herencia_MarkupCompile.lref

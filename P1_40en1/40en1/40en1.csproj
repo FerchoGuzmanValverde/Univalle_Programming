@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03EADEF2-0952-4F6C-9D38-C9D5EE7EA60E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_40en1</RootNamespace>
+    <AssemblyName>40en1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Ci1.xaml.cs">
+      <DependentUpon>Ci1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci10.xaml.cs">
+      <DependentUpon>Ci10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci2.xaml.cs">
+      <DependentUpon>Ci2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci3.xaml.cs">
+      <DependentUpon>Ci3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci4.xaml.cs">
+      <DependentUpon>Ci4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci5.xaml.cs">
+      <DependentUpon>Ci5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci6.xaml.cs">
+      <DependentUpon>Ci6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci7.xaml.cs">
+      <DependentUpon>Ci7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci8.xaml.cs">
+      <DependentUpon>Ci8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ci9.xaml.cs">
+      <DependentUpon>Ci9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ciclos.cs" />
+    <Compile Include="Con1.xaml.cs">
+      <DependentUpon>Con1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Con2.xaml.cs">
+      <DependentUpon>Con2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Con3.xaml.cs">
+      <DependentUpon>Con3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Con4.xaml.cs">
+      <DependentUpon>Con4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Con5.xaml.cs">
+      <DependentUpon>Con5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Condicionales.cs" />
+    <Compile Include="S1.xaml.cs">
+      <DependentUpon>S1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="S2.xaml.cs">
+      <DependentUpon>S2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="S3.xaml.cs">
+      <DependentUpon>S3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="S4.xaml.cs">
+      <DependentUpon>S4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="S6.xaml.cs">
+      <DependentUpon>S6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Se5.xaml.cs">
+      <DependentUpon>Se5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Secuenciales.cs" />
+    <Compile Include="vec1.xaml.cs">
+      <DependentUpon>vec1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vec2.xaml.cs">
+      <DependentUpon>vec2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vec3.xaml.cs">
+      <DependentUpon>vec3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vec4.xaml.cs">
+      <DependentUpon>vec4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vec5.xaml.cs">
+      <DependentUpon>vec5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vec6.xaml.cs">
+      <DependentUpon>vec6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vectores.cs" />
+    <Page Include="Ci1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ci9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Con1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Con2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Con3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Con4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Con5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="S1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="S2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="S3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="S4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="S6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Se5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vec6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Posible.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Patuju.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Elsegundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Elprimero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Elcuarto.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

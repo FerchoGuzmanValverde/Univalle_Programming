@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones_y_Combinaciones.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\bin\Debug\Permutaciones y Combinaciones.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones_y_Combinaciones.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Permutaciones y Combinaciones\Permutaciones y Combinaciones\obj\Debug\Permutaciones y Combinaciones.pdb

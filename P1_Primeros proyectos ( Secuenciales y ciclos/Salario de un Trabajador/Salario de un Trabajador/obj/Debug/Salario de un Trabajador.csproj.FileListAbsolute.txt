@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\bin\Debug\Salario de un Trabajador.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\bin\Debug\Salario de un Trabajador.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\bin\Debug\Salario de un Trabajador.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario_de_un_Trabajador.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Salario de un Trabajador\Salario de un Trabajador\obj\Debug\Salario de un Trabajador.pdb

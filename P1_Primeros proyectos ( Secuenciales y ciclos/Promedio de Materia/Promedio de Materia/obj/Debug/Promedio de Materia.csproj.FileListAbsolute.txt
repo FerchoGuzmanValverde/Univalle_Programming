@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\bin\Debug\Promedio de Materia.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\bin\Debug\Promedio de Materia.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\bin\Debug\Promedio de Materia.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio_de_Materia.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promedio de Materia\Promedio de Materia\obj\Debug\Promedio de Materia.pdb

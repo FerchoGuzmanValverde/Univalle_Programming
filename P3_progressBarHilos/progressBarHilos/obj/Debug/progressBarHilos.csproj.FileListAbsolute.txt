@@ -1,0 +1,20 @@
+D:\progressBarHilos\progressBarHilos\bin\Debug\progressBarHilos.exe.config
+D:\progressBarHilos\progressBarHilos\bin\Debug\progressBarHilos.exe
+D:\progressBarHilos\progressBarHilos\bin\Debug\progressBarHilos.pdb
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.csprojResolveAssemblyReference.cache
+D:\progressBarHilos\progressBarHilos\obj\Debug\MainWindow.g.cs
+D:\progressBarHilos\progressBarHilos\obj\Debug\App.g.cs
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos_MarkupCompile.cache
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos_MarkupCompile.lref
+D:\progressBarHilos\progressBarHilos\obj\Debug\MainWindow.baml
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.g.resources
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.Properties.Resources.resources
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.csproj.GenerateResource.Cache
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.exe
+D:\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.pdb
+H:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\bin\Debug\progressBarHilos.exe.config
+H:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.exe
+H:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\bin\Debug\progressBarHilos.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.exe
+G:\Univalle\2 UNIVALLE\Programacion III\progressBarHilos\progressBarHilos\obj\Debug\progressBarHilos.pdb

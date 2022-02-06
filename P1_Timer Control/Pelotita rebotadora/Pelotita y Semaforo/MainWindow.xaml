@@ -1,0 +1,13 @@
+﻿<Window x:Name="magen" x:Class="Pelotita_y_Semaforo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pelotita_y_Semaforo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="magen_Loaded">
+    <Grid>
+        <RadioButton x:Name="punto" Content="" HorizontalAlignment="Left" Margin="123,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="MenuControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MenuControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel HorizontalAlignment="Stretch" Height="100" LastChildFill="False" Margin="0" VerticalAlignment="Top" Width="auto">
+            <Menu Name="MenuGeneral" HorizontalAlignment="Stretch" Height="100" VerticalAlignment="Top" Width="auto" DockPanel.Dock="Top">
+                <MenuItem Header="_Archivo" Name="MenuArchivo">
+                </MenuItem>
+                <MenuItem Header="_Disenio" Name="MenuEditar">
+                </MenuItem>
+                <MenuItem Header="_Formato" Name="MenuHerramientas">
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <!--No se comprende la segunda instruccion-->
+    </Grid>
+</Window>

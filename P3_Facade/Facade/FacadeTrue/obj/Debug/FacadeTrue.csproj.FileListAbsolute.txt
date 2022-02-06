@@ -1,0 +1,12 @@
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\bin\Debug\FacadeTrue.exe.config
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\bin\Debug\FacadeTrue.exe
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\bin\Debug\FacadeTrue.pdb
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\MainWindow.baml
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue_MarkupCompile.cache
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue.g.resources
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue.Properties.Resources.resources
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue.exe
+C:\Users\Fernando Guzman\Downloads\FacadeTrue\FacadeTrue\obj\Debug\FacadeTrue.pdb

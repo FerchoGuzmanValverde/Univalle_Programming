@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\bin\Debug\CA 4to.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\bin\Debug\CA 4to.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\bin\Debug\CA 4to.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA_4to.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\CA 4to\CA 4to\obj\Debug\CA 4to.pdb

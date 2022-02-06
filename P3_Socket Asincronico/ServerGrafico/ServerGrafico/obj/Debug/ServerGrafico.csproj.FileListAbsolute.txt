@@ -1,0 +1,28 @@
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.exe.config
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.exe
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.pdb
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico_MarkupCompile.cache
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico_MarkupCompile.lref
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.g.resources
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.Properties.Resources.resources
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.exe
+C:\Users\usuario\Desktop\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\bin\Debug\ServerGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico_MarkupCompile.lref
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ServerGrafico\ServerGrafico\obj\Debug\ServerGrafico.csproj.GenerateResource.Cache

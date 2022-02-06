@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\EjeSOCKET_recibe\EjeSOCKET_recibe\bin\Debug\EjeSOCKET_recibe.exe.config
+C:\Users\usuario\Desktop\EjeSOCKET_recibe\EjeSOCKET_recibe\bin\Debug\EjeSOCKET_recibe.exe
+C:\Users\usuario\Desktop\EjeSOCKET_recibe\EjeSOCKET_recibe\bin\Debug\EjeSOCKET_recibe.pdb
+C:\Users\usuario\Desktop\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.exe
+C:\Users\usuario\Desktop\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.pdb
+G:\EjeSOCKET_recibe\EjeSOCKET_recibe\bin\Debug\EjeSOCKET_recibe.exe.config
+G:\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.exe
+G:\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.pdb
+H:\EjemploSocketsClasesV1\EjeSOCKET_recibe\EjeSOCKET_recibe\bin\Debug\EjeSOCKET_recibe.exe.config
+H:\EjemploSocketsClasesV1\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.exe
+H:\EjemploSocketsClasesV1\EjeSOCKET_recibe\EjeSOCKET_recibe\obj\Debug\EjeSOCKET_recibe.pdb

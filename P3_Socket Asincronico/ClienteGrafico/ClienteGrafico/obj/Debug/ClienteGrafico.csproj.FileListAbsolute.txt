@@ -1,0 +1,31 @@
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.exe.config
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.exe
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.pdb
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico_MarkupCompile.cache
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico_MarkupCompile.lref
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.g.resources
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.Properties.Resources.resources
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.exe
+C:\Users\usuario\Desktop\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico_MarkupCompile.lref
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\bin\Debug\ClienteGrafico.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.exe
+G:\Univalle\2 UNIVALLE\Programacion III\Socket Asincronico\ClienteGrafico\ClienteGrafico\obj\Debug\ClienteGrafico.pdb

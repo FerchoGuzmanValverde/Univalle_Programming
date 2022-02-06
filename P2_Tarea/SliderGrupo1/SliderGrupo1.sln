@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderGrupo1", "SliderGrupo1\SliderGrupo1.csproj", "{89A12D1F-BA8C-4CCF-861C-82C00C4CF6D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A12D1F-BA8C-4CCF-861C-82C00C4CF6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A12D1F-BA8C-4CCF-861C-82C00C4CF6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A12D1F-BA8C-4CCF-861C-82C00C4CF6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A12D1F-BA8C-4CCF-861C-82C00C4CF6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A82852E-A566-4A84-B5F0-F6A51E55B8EF}
+	EndGlobalSection
+EndGlobal

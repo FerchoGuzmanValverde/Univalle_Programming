@@ -1,0 +1,32 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\bin\Debug\Primera.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.ResolveComReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Primera\Primera\obj\Debug\Primera.pdb

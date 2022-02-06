@@ -1,0 +1,31 @@
+G:\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.exe.config
+G:\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.exe
+G:\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.pdb
+G:\SocketEnvia\SocketEnvia\obj\Debug\MainWindow.g.cs
+G:\SocketEnvia\SocketEnvia\obj\Debug\App.g.cs
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia_MarkupCompile.cache
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia_MarkupCompile.lref
+G:\SocketEnvia\SocketEnvia\obj\Debug\MainWindow.baml
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.g.resources
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.Properties.Resources.resources
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.csproj.GenerateResource.Cache
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.exe
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.pdb
+G:\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.csprojResolveAssemblyReference.cache
+H:\PracticaSocketsV3\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.exe.config
+H:\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.exe
+H:\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\bin\Debug\SocketEnvia.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia_MarkupCompile.lref
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV3\SocketEnvia\SocketEnvia\obj\Debug\SocketEnvia.csproj.GenerateResource.Cache

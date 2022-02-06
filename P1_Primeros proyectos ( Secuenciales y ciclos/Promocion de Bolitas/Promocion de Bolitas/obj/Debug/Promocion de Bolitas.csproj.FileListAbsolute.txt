@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\bin\Debug\Promocion de Bolitas.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\bin\Debug\Promocion de Bolitas.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\bin\Debug\Promocion de Bolitas.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion_de_Bolitas.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Promocion de Bolitas\Promocion de Bolitas\obj\Debug\Promocion de Bolitas.pdb

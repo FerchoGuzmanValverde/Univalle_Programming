@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\bin\Debug\NodosDobles.exe.config
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\bin\Debug\NodosDobles.exe
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\bin\Debug\NodosDobles.pdb
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles_MarkupCompile.cache
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles_MarkupCompile.lref
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.g.resources
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.Properties.Resources.resources
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.exe
+C:\Users\usuario\Desktop\NodosDobles\NodosDobles\obj\Debug\NodosDobles.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\NodosDobles\NodosDobles\bin\Debug\NodosDobles.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\NodosDobles\NodosDobles\obj\Debug\NodosDobles.exe
+D:\Univalle\2 UNIVALLE\Programacion III\NodosDobles\NodosDobles\obj\Debug\NodosDobles.pdb

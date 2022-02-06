@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\bin\Debug\Porcentajes.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\bin\Debug\Porcentajes.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\bin\Debug\Porcentajes.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentajes\Porcentajes\obj\Debug\Porcentajes.pdb

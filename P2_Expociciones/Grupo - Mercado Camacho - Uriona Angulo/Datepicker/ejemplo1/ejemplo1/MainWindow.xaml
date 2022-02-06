@@ -1,0 +1,76 @@
+﻿<Window x:Class="ejemplo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <!--Ejemplo1-->
+        <!--<DatePicker Height="25" HorizontalAlignment="Left" Margin="42,26,0,0" Name="datePicker1" VerticalAlignment="Top" Width="300" SelectedDateFormat="Long" FirstDayOfWeek="Wednesday" IsTodayHighlighted="True" />-->
+        
+        
+        <!--Ejemplo2-->
+        <!--<DatePicker Height="25" HorizontalAlignment="Center" Margin="20" Name="datePicker1" VerticalAlignment="Top" Width="115" />
+        <DatePicker IsDropDownOpen="True"/>-->
+
+
+        <!--Ejemplo3-->
+
+        <DatePicker Name="datePickerWithBlackoutDates"
+            DisplayDateStart="8/1/09"
+            DisplayDateEnd="8/31/09"
+            SelectedDate="8/10/09"
+            DateValidationError="DatePicker_DateValidationError">
+            <DatePicker.BlackoutDates>
+                <CalendarDateRange Start="8/1/09" End="8/2/09"/>
+                <CalendarDateRange Start="8/8/09" End="8/9/09"/>
+                <CalendarDateRange Start="8/15/09" End="8/16/09"/>
+                <CalendarDateRange Start="8/22/09" End="8/23/09"/>
+                <CalendarDateRange Start="8/29/09" End="8/30/09"/>
+            </DatePicker.BlackoutDates>
+        </DatePicker>
+
+
+        <!--ejemplo 4 pesonalizacion-->
+
+        <!--<DatePicker Name="datePickerPesonalizacion"            
+            DateValidationError="DatePicker_DateValidationError" Margin="70">
+        
+        <DatePicker.BorderBrush>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                <GradientStop Color="Blue" Offset="0" />
+                <GradientStop Color="Red" Offset="1.0" />
+            </LinearGradientBrush>
+        </DatePicker.BorderBrush>
+            </DatePicker>-->
+
+
+        <!--ejemplo 5-->
+        
+        <!--<DatePicker Name="datePickerPersonalizacion"            
+            DateValidationError="DatePicker_DateValidationError">
+            <DatePicker.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                    <GradientStop Color="Blue" Offset="0.1" />
+                    <GradientStop Color="Orange" Offset="0.25" />
+                    <GradientStop Color="Green" Offset="0.75" />
+                    <GradientStop Color="Red" Offset="1.0" />
+                </LinearGradientBrush>
+            </DatePicker.Background>
+            <DatePicker.Foreground>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                    <GradientStop Color="Black" Offset="0.25" />
+                    <GradientStop Color="Green" Offset="1.0" />
+                </LinearGradientBrush>
+            </DatePicker.Foreground>
+        </DatePicker>-->
+        
+        <!--ejemplo 6 imagen de fondo-->
+        
+        <!--<DatePicker Name="datePickerPersonalizacion"            
+            DateValidationError="DatePicker_DateValidationError">
+            <DatePicker.Background>
+                <ImageBrush ImageSource="1074487-354d2rth7nijyfjjjpa8sq.jpg" Opacity="0.9"/>
+            </DatePicker.Background>
+        </DatePicker>-->
+
+    </Grid>
+</Window>

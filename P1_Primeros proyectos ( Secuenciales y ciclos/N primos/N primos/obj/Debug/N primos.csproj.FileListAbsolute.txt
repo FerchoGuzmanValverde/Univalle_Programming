@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\bin\Debug\N primos.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\bin\Debug\N primos.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\bin\Debug\N primos.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N_primos.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primos\N primos\obj\Debug\N primos.pdb

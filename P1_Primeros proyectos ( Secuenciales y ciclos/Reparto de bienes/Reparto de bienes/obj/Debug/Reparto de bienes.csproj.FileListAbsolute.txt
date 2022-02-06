@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\bin\Debug\Reparto de bienes.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\bin\Debug\Reparto de bienes.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\bin\Debug\Reparto de bienes.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto_de_bienes.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Reparto de bienes\Reparto de bienes\obj\Debug\Reparto de bienes.pdb

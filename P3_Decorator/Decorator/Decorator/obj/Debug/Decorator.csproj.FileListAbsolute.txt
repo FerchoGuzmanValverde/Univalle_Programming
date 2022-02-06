@@ -1,0 +1,13 @@
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\MainWindow.baml
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator_MarkupCompile.cache
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.g.resources
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.Properties.Resources.resources
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\Fernando Guzman\Downloads\Decorator\Decorator\obj\Debug\Decorator.pdb

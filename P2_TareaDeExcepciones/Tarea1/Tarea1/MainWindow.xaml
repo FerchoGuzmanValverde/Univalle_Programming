@@ -1,0 +1,43 @@
+﻿<Window x:Class="Tarea1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="395.705" Width="549.77">
+    <Grid>
+        <GroupBox Header="Ejercicio 1" HorizontalAlignment="Left" Height="159" Margin="10,10,0,0" VerticalAlignment="Top" Width="233">
+            <Grid HorizontalAlignment="Left" Height="138" VerticalAlignment="Top" Width="223" Margin="0,0,-2,-1">
+                <Label Content="Hora Actual:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+                <Label Content="hh:mm:ss" HorizontalAlignment="Left" Margin="111,7,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txthora" HorizontalAlignment="Left" Height="23" Margin="90,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123"/>
+                <Button x:Name="btnComparar" Content="Comparar" HorizontalAlignment="Left" Margin="61,81,0,0" VerticalAlignment="Top" Width="110" Click="btnComparar_Click" Height="32"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Ejercicio 4" HorizontalAlignment="Left" Height="159" Margin="262,10,0,0" VerticalAlignment="Top" Width="246">
+            <Grid HorizontalAlignment="Left" Height="149" VerticalAlignment="Top" Width="236" Margin="0,0,-2,-12">
+                <Label Content="Nota 1:" HorizontalAlignment="Left" Margin="29,10,0,0" VerticalAlignment="Top"/>
+                <Label Content="Nota 2:" HorizontalAlignment="Left" Margin="29,41,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="btncalcular" Content="Calcular" HorizontalAlignment="Left" Margin="63,86,0,0" VerticalAlignment="Top" Width="95" Height="32" Click="btncalcular_Click"/>
+                <TextBox x:Name="txtnota1" HorizontalAlignment="Left" Height="23" Margin="106,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+                <TextBox x:Name="txtnota2" HorizontalAlignment="Left" Height="23" Margin="106,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Ejercicio 3" HorizontalAlignment="Left" Height="163" Margin="10,174,0,0" VerticalAlignment="Top" Width="233">
+            <Grid HorizontalAlignment="Left" Height="140" VerticalAlignment="Top" Width="223" Margin="0,0,-2,0">
+                <Label Content="Ingrese numero:" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtdigitos" HorizontalAlignment="Left" Height="23" Margin="123,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90"/>
+                <Button x:Name="btndigitos" Content="Mostrar Digitos" HorizontalAlignment="Left" Margin="47,79,0,0" VerticalAlignment="Top" Width="110" Height="29" Click="btndigitos_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Ejercicio 2" HorizontalAlignment="Left" Height="163" Margin="262,174,0,0" VerticalAlignment="Top" Width="246">
+            <Grid HorizontalAlignment="Left" Height="141" VerticalAlignment="Top" Width="236" Margin="0,0,-2,0">
+                <Label Content="Ingrese cifra:" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtcifra" HorizontalAlignment="Left" Height="23" Margin="106,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93"/>
+                <Button x:Name="btncalcularCifra" Content="Calcular" HorizontalAlignment="Left" Margin="52,78,0,0" VerticalAlignment="Top" Width="106" Height="33" Click="btncalcularCifra_Click"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

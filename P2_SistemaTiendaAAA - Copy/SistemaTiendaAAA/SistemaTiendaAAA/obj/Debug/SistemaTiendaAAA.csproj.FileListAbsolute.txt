@@ -1,0 +1,60 @@
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe.config
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.lref
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.g.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.Properties.Resources.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.pdb
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe.config
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.pdb
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csprojResolveAssemblyReference.cache
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.g.cs
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\App.g.cs
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.cache
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.lref
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.baml
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.g.resources
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.Properties.Resources.resources
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.GenerateResource.cache
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.exe
+D:\Desktop\Projects\Sofware programming\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe.config
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.lref
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.g.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.Properties.Resources.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe.config
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\bin\Debug\SistemaTiendaAAA.pdb
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA_MarkupCompile.lref
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.g.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.Properties.Resources.resources
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.exe
+C:\Users\Fernando\Desktop\SistemaTiendaAAA - Copy\SistemaTiendaAAA\SistemaTiendaAAA\obj\Debug\SistemaTiendaAAA.pdb

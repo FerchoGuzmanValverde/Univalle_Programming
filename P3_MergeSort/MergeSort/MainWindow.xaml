@@ -1,0 +1,22 @@
+﻿<Window x:Class="MergeSort.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <GroupBox Header="Recursivo" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Height="196" Width="228">
+            <Grid Margin="0,10,-2,-12">
+                <Button x:Name="btnOrdenar" Content="Ordenar" HorizontalAlignment="Left" Margin="25,21,0,0" VerticalAlignment="Top" Width="167" Click="btnOrdenar_Click"/>
+                <TextBox x:Name="txtmostrar" HorizontalAlignment="Left" Height="23" Margin="25,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+                <TextBox x:Name="txtmostrarO" HorizontalAlignment="Left" Height="23" Margin="25,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="No Recursivo" HorizontalAlignment="Left" Margin="279,62,0,0" VerticalAlignment="Top" Height="196" Width="228">
+            <Grid Margin="0,10,-2,-12">
+                <Button x:Name="btnOrdenar1" Content="Ordenar" HorizontalAlignment="Left" Margin="25,21,0,0" VerticalAlignment="Top" Width="167" Click="btnOrdenar1_Click"/>
+                <TextBox x:Name="txtmostrar1" HorizontalAlignment="Left" Height="23" Margin="25,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+                <TextBox x:Name="txtmostrarO1" HorizontalAlignment="Left" Height="23" Margin="25,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

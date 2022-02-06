@@ -1,0 +1,14 @@
+D:\Univalle\2 UNIVALLE\Programacion III\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Recursivos\WpfApplication1\obj\Debug\WpfApplication1.pdb

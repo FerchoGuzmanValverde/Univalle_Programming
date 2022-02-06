@@ -1,0 +1,21 @@
+﻿<Window x:Class="Inverticiones.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inverticiones"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btncrear" Content="Crear" HorizontalAlignment="Left" Margin="44,10,0,0" VerticalAlignment="Top" Width="75" Click="btncrear_Click"/>
+        <ListBox x:Name="lstvector1" HorizontalAlignment="Left" Height="140" Margin="19,43,0,0" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="btninvertir" Content="Invertir" HorizontalAlignment="Left" Margin="221,186,0,0" VerticalAlignment="Top" Width="75" Click="btninvertir_Click"/>
+        <ListBox x:Name="lstinvertido" HorizontalAlignment="Left" Height="140" Margin="180,217,0,0" VerticalAlignment="Top" Width="190"/>
+        <ListBox x:Name="lstvector2" HorizontalAlignment="Left" Height="141" Margin="19,201,0,0" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="btnintercambiar" Content="Intercambiar" HorizontalAlignment="Left" Margin="416,10,0,0" VerticalAlignment="Top" Width="75" Click="btnintercambiar_Click"/>
+        <ListBox x:Name="lstintercambiado1" HorizontalAlignment="Left" Height="140" Margin="391,43,0,0" VerticalAlignment="Top" Width="133"/>
+        <ListBox x:Name="lstintercacmbiado2" HorizontalAlignment="Left" Height="141" Margin="391,201,0,0" VerticalAlignment="Top" Width="133"/>
+        <ListBox x:Name="lstvector3" HorizontalAlignment="Left" Height="140" Margin="188,24,0,0" VerticalAlignment="Top" Width="172"/>
+
+    </Grid>
+</Window>

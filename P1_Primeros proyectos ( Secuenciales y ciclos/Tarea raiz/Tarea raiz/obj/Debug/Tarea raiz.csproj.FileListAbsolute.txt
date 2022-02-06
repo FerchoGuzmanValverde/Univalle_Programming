@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea_raiz.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\bin\Debug\Tarea raiz.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea_raiz.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Tarea raiz\Tarea raiz\obj\Debug\Tarea raiz.pdb

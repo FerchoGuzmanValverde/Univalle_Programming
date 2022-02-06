@@ -1,0 +1,17 @@
+G:\SocketRecive\SocketRecive\bin\Debug\SocketRecive.exe.config
+G:\SocketRecive\SocketRecive\bin\Debug\SocketRecive.exe
+G:\SocketRecive\SocketRecive\bin\Debug\SocketRecive.pdb
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.csprojResolveAssemblyReference.cache
+G:\SocketRecive\SocketRecive\obj\Debug\MainWindow.g.cs
+G:\SocketRecive\SocketRecive\obj\Debug\App.g.cs
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive_MarkupCompile.cache
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive_MarkupCompile.lref
+G:\SocketRecive\SocketRecive\obj\Debug\MainWindow.baml
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.g.resources
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.Properties.Resources.resources
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.csproj.GenerateResource.Cache
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.exe
+G:\SocketRecive\SocketRecive\obj\Debug\SocketRecive.pdb
+H:\PracticaSocketsV3\SocketRecive\SocketRecive\bin\Debug\SocketRecive.exe.config
+H:\PracticaSocketsV3\SocketRecive\SocketRecive\obj\Debug\SocketRecive.exe
+H:\PracticaSocketsV3\SocketRecive\SocketRecive\obj\Debug\SocketRecive.pdb

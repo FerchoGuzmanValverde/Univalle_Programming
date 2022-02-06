@@ -1,0 +1,90 @@
+﻿<Window x:Class="Menu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <!--estilos-->
+    <Window.Resources>
+        <Style x:Key="EstilosDelMenu" TargetType="Menu">
+            <Setter Property="Background" Value="Coral" />
+            <Setter Property="Foreground" Value="Navy" />
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+        </Style>
+        <ContextMenu  x:Key="TextBoxContextMenu">
+
+        </ContextMenu>
+    </Window.Resources>
+
+    <Grid>
+        <DockPanel  Name="dockPanelMenu"  Height="31" Width="Auto"
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Top" 
+                    DockPanel.Dock="Top" 
+                    LastChildFill="False">
+            <Menu Name="MenuGeneral"
+               Height="23" Width="Auto"   
+               DockPanel.Dock="Top">
+                <!--   Style="{StaticResource EstilosDelMenu}"> -->
+
+                <MenuItem Header="_Archivo" Name ="MenuArchivo" Click="MenuArchivo_Click">
+                                                         <!--[Header] establece la etiqueta que mostrara el control-->
+                    <MenuItem Header="_Nuevo" Name="MenuNuevoArchivo" Click="MenuArchivoNuevo_Click"/>
+                    <Separator/>
+                    <MenuItem Header="_Terminar" Name="ArchuivoNuevoTerminar" Click="MenuArchivo_Click"/>
+
+
+                </MenuItem>
+
+                <MenuItem Header="_Editar" Name="MenuEditar">
+                    <!--[Name] establece un nombre que identifica a ese elemento-->
+                    <MenuItem Header="_Cortar" Name="MenuEditarCortar" Click="MenuEditarCortar_Click" Height="27" Margin="0,0,653,0">
+                        <MenuItem.Icon>
+                            <Image Source="Images/cut.png"/>
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                    <MenuItem Header="_Copiar" Name="MenuEditarCopiar" Margin="0,0,942,0" Height="23">
+                        <MenuItem.Icon>
+                            <Image Source="Images/descarga.png"/>
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                    <MenuItem Header="_Pegar" Name="MenuEditarPegar" Height="47.45" Margin="-4,0,1081,0" RenderTransformOrigin="-2.046,0.253">
+                        <MenuItem.Icon>
+                            <Image Source="Images/paste.jpg" Margin="0,0,-18,0"/>
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+
+                </MenuItem>
+
+                <MenuItem Header="_Herramientas" Name="MenuHerramientas">
+                    <MenuItem Header="_Siempre_Visible" Name="MenuHerramientasSiempreVisible"
+                             IsChecked="True" Click="MenuHerramientasSiempreVivible_Click"/>
+
+                </MenuItem>
+
+                <MenuItem Header="_Ayuda" Name="MenuAyuda">
+                    <MenuItem Header="_Contenidos"      Name="MenuAyudaContenidos"/>
+                    <Separator/>
+                    <MenuItem Header="_Soporte_tecnico" Name="MenuAyudaSoporeteTecnico"/>
+                    <Separator/>
+                    
+
+
+
+                </MenuItem>
+                <MenuItem Header="_Salir" Name="MenuSlir" Click="MenuSlir_Click">
+
+                </MenuItem>
+
+            </Menu>
+
+        </DockPanel>
+
+    </Grid>
+</Window>

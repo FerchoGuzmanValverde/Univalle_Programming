@@ -1,0 +1,14 @@
+﻿<Window x:Class="EjercicioSliderGrupo2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EjercicioSliderGrupo2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Image Source="img/css3.png" Height="250" Width="400" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="0.6" Stretch="Fill"/>
+        <Slider VerticalAlignment="Top" HorizontalAlignment="Center" Minimum="0" Maximum="100" TickFrequency="4" Width="392"/>
+        <ProgressBar HorizontalAlignment="Center" IsIndeterminate="True"  Width="274" Margin="122,284,121,9" />
+    </Grid>
+</Window>

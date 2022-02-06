@@ -1,0 +1,47 @@
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\TabMenu2.exe.config
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\TabMenu2.exe
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\TabMenu2.pdb
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\Dragablz.dll
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\Dragablz.pdb
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\Dragablz.xml
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2_MarkupCompile.cache
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2_MarkupCompile.lref
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\App.baml
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\MainWindow.baml
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.g.resources
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.Properties.Resources.resources
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.exe
+C:\Users\Fernando Guzman\Desktop\TabMenu2-master\TabMenu2-master\TabMenu2\obj\Debug\TabMenu2.pdb
+C:\Users\Fernando Guzman\Desktop\MenuPizzas\TabMenu\TabMenu2\bin\Debug\TabMenu2.exe.config
+C:\Users\Fernando Guzman\Desktop\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.exe
+C:\Users\Fernando Guzman\Desktop\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\TabMenu2.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.exe
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\TabMenu2.exe
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\TabMenu2.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\Dragablz.dll
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\MaterialDesignColors.dll
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\Dragablz.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\Dragablz.xml
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\App.baml
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\MenuPizzas\TabMenu\TabMenu2\obj\Debug\TabMenu2.csproj.GenerateResource.Cache

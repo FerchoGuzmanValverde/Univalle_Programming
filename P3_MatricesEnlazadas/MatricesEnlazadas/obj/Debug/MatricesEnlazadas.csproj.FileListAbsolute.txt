@@ -1,0 +1,13 @@
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\bin\Debug\MatricesEnlazadas.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\bin\Debug\MatricesEnlazadas.exe
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\bin\Debug\MatricesEnlazadas.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.exe
+D:\Univalle\2 UNIVALLE\Programacion III\MatricesEnlazadas\MatricesEnlazadas\obj\Debug\MatricesEnlazadas.pdb

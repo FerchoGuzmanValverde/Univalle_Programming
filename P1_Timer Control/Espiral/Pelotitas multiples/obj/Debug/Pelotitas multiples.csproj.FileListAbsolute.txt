@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\bin\Debug\Pelotitas multiples.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\bin\Debug\Pelotitas multiples.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\bin\Debug\Pelotitas multiples.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas_multiples.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotitas multiples\Pelotitas multiples\obj\Debug\Pelotitas multiples.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\bin\Debug\Pelotitas multiples.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\bin\Debug\Pelotitas multiples.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\bin\Debug\Pelotitas multiples.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas_multiples.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Espiral\Pelotitas multiples\obj\Debug\Pelotitas multiples.pdb

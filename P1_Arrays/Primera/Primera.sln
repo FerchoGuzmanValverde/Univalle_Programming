@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primera", "Primera\Primera.csproj", "{AB83756B-2DDD-41DD-A520-9F1243162AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB83756B-2DDD-41DD-A520-9F1243162AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB83756B-2DDD-41DD-A520-9F1243162AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB83756B-2DDD-41DD-A520-9F1243162AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB83756B-2DDD-41DD-A520-9F1243162AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A73C1D6-DABF-4E29-8234-4DB0B68A1B6A}
+	EndGlobalSection
+EndGlobal

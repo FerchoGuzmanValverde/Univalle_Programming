@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\bin\Debug\SocketsRecepciona.exe.config
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\bin\Debug\SocketsRecepciona.exe
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\bin\Debug\SocketsRecepciona.pdb
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\obj\Debug\SocketsRecepciona.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\obj\Debug\SocketsRecepciona.exe
+C:\Users\Usuario\Desktop\SocketsRecepciona\SocketsRecepciona\obj\Debug\SocketsRecepciona.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsRecepciona\SocketsRecepciona\bin\Debug\SocketsRecepciona.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsRecepciona\SocketsRecepciona\obj\Debug\SocketsRecepciona.exe
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsRecepciona\SocketsRecepciona\obj\Debug\SocketsRecepciona.pdb

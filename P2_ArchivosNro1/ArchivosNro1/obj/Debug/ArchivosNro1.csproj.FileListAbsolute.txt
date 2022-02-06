@@ -1,0 +1,13 @@
+F:\ArchivosNro1\ArchivosNro1\bin\Debug\ArchivosNro1.exe.config
+F:\ArchivosNro1\ArchivosNro1\bin\Debug\ArchivosNro1.exe
+F:\ArchivosNro1\ArchivosNro1\bin\Debug\ArchivosNro1.pdb
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.csprojResolveAssemblyReference.cache
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\MainWindow.baml
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\MainWindow.g.cs
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\App.g.cs
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1_MarkupCompile.cache
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.g.resources
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.Properties.Resources.resources
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.csproj.GenerateResource.Cache
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.exe
+F:\ArchivosNro1\ArchivosNro1\obj\Debug\ArchivosNro1.pdb

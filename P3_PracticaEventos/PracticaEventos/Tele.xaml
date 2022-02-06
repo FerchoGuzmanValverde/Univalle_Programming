@@ -1,0 +1,11 @@
+﻿<Window x:Class="PracticaEventos.Tele"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tele" Height="300" Width="300">
+    <Grid x:Name="gridM" Background="#FF3A3333">
+        <Label x:Name="lblCanal" Content="----" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" Width="74"/>
+        <Label Content="Volumen:" HorizontalAlignment="Left" Margin="22,226,0,0" VerticalAlignment="Top" Width="74"/>
+        <Label x:Name="lblVolumen" Content="-----" HorizontalAlignment="Left" Margin="101,226,0,0" VerticalAlignment="Top" Width="98"/>
+
+    </Grid>
+</Window>

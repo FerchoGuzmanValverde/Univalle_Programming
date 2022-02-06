@@ -1,0 +1,15 @@
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\bin\Debug\Genericos.exe.config
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\bin\Debug\Genericos.exe
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\bin\Debug\Genericos.pdb
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.csprojAssemblyReference.cache
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\MainWindow.g.cs
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\App.g.cs
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos_MarkupCompile.cache
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos_MarkupCompile.lref
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\MainWindow.baml
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.g.resources
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.Properties.Resources.resources
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.csproj.GenerateResource.cache
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.exe
+F:\Univalle\2 UNIVALLE\Programacion III\Genericos\Genericos\obj\Debug\Genericos.pdb

@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\bin\Debug\Tercero.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Tercero\Tercero\obj\Debug\Tercero.pdb

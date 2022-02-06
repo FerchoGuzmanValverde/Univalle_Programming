@@ -1,0 +1,13 @@
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\bin\Debug\Eventos.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\bin\Debug\Eventos.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\bin\Debug\Eventos.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos\Eventos\obj\Debug\Eventos.pdb

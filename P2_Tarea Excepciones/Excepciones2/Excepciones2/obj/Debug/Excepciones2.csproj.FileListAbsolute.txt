@@ -1,0 +1,13 @@
+F:\Programacion\Excepciones2\Excepciones2\bin\Debug\Excepciones2.exe.config
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.csprojResolveAssemblyReference.cache
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\MainWindow.baml
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\MainWindow.g.cs
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\App.g.cs
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2_MarkupCompile.cache
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.g.resources
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.Properties.Resources.resources
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.csproj.GenerateResource.Cache
+F:\Programacion\Excepciones2\Excepciones2\bin\Debug\Excepciones2.exe
+F:\Programacion\Excepciones2\Excepciones2\bin\Debug\Excepciones2.pdb
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.exe
+F:\Programacion\Excepciones2\Excepciones2\obj\Debug\Excepciones2.pdb

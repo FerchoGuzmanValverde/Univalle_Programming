@@ -1,0 +1,13 @@
+﻿<Window x:Class="Peso_de_alumnos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Peso_de_alumnos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="194.681" Width="271.809">
+    <Grid>
+        <Button x:Name="btnclasificar" Content="Clasificar alumnos" HorizontalAlignment="Left" Margin="57,67,0,0" VerticalAlignment="Top" Width="132" Click="btnclasificar_Click"/>
+
+    </Grid>
+</Window>

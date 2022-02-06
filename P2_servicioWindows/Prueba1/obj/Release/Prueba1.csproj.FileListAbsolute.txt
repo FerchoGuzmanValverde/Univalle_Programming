@@ -1,0 +1,9 @@
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\bin\Release\Prueba1.exe.config
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\bin\Release\Prueba1.exe
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\bin\Release\Prueba1.pdb
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.ProjectInstaller.resources
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.exe
+C:\Users\Fernando\Desktop\Prueba1\Prueba1\obj\Release\Prueba1.pdb

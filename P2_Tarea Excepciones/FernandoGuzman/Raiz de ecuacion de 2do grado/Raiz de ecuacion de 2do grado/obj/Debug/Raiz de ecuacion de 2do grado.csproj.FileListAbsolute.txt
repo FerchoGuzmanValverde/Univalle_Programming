@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz_de_ecuacion_de_2do_grado.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\bin\Debug\Raiz de ecuacion de 2do grado.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz_de_ecuacion_de_2do_grado.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Raiz de ecuacion de 2do grado\Raiz de ecuacion de 2do grado\obj\Debug\Raiz de ecuacion de 2do grado.pdb

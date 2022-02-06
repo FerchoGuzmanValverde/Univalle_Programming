@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\bin\Debug\Multiples bolitas.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\bin\Debug\Multiples bolitas.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\bin\Debug\Multiples bolitas.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples_bolitas.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Multiples bolitas\Multiples bolitas\obj\Debug\Multiples bolitas.pdb

@@ -1,0 +1,12 @@
+F:\ProgramacionArcivos2\ProgramacionArcivos2\bin\Debug\ProgramacionArcivos2.exe.config
+F:\ProgramacionArcivos2\ProgramacionArcivos2\bin\Debug\ProgramacionArcivos2.exe
+F:\ProgramacionArcivos2\ProgramacionArcivos2\bin\Debug\ProgramacionArcivos2.pdb
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\MainWindow.baml
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\MainWindow.g.cs
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\App.g.cs
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2_MarkupCompile.cache
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2.g.resources
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2.Properties.Resources.resources
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2.csproj.GenerateResource.Cache
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2.exe
+F:\ProgramacionArcivos2\ProgramacionArcivos2\obj\Debug\ProgramacionArcivos2.pdb

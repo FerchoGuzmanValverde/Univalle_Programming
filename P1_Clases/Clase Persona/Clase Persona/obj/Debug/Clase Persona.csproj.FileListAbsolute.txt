@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\bin\Debug\Clase Persona.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\bin\Debug\Clase Persona.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\bin\Debug\Clase Persona.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase_Persona.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Clases\Clase Persona\Clase Persona\obj\Debug\Clase Persona.pdb

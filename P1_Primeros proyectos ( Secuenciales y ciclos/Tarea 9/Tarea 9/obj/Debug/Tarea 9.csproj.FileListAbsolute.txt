@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\bin\Debug\Tarea 9.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\bin\Debug\Tarea 9.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\bin\Debug\Tarea 9.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea_9.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Tarea 9\Tarea 9\obj\Debug\Tarea 9.pdb

@@ -1,0 +1,17 @@
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\bin\Debug\Eventos2.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\bin\Debug\Eventos2.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\bin\Debug\Eventos2.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Window2.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Window2.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Eventos2.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Window3.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Eventos2\Eventos2\obj\Debug\Window3.g.cs

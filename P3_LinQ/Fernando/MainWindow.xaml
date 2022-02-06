@@ -1,0 +1,14 @@
+﻿<Window x:Class="Fernando.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fernando"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="button" Content="Nombre Materias" HorizontalAlignment="Left" Margin="52,34,0,0" VerticalAlignment="Top" Width="111" Click="button_Click"/>
+        <TextBox x:Name="txtR" HorizontalAlignment="Left" Height="224" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" Margin="200,40,0,0"/>
+
+    </Grid>
+</Window>

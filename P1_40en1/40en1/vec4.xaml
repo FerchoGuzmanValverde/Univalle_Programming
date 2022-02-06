@@ -1,0 +1,15 @@
+﻿<Window x:Class="_40en1.vec4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_40en1"
+        mc:Ignorable="d"
+        Title="vec4" Height="189.041" Width="186.644" Background="#FF36D407">
+    <Grid>
+        <Button x:Name="btncrear" Content="Generar Vector" HorizontalAlignment="Left" Margin="32,10,0,0" VerticalAlignment="Top" Width="112" Click="btncrear_Click" Background="#FF52CF17" BorderBrush="#FF060505" FontFamily="Showcard Gothic"/>
+        <ListBox x:Name="lstmostrador" HorizontalAlignment="Left" Height="65" Margin="40,35,0,0" VerticalAlignment="Top" Width="98" Background="#FF9BE086"/>
+        <Button x:Name="btnrevisar" Content="Revisar Orden" HorizontalAlignment="Left" Margin="32,115,0,0" VerticalAlignment="Top" Width="112" Click="btnrevisar_Click" Background="#FF52CF17" BorderBrush="#FF060505" FontFamily="Showcard Gothic"/>
+
+    </Grid>
+</Window>

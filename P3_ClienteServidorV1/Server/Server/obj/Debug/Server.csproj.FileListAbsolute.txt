@@ -1,0 +1,30 @@
+C:\Users\usuario\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\usuario\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\usuario\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server.g.resources
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\usuario\Desktop\Server\Server\obj\Debug\Server.pdb
+G:\Server\Server\bin\Debug\Server.exe.config
+G:\Server\Server\obj\Debug\Server.exe
+G:\Server\Server\obj\Debug\Server.pdb
+G:\Server\Server\bin\Debug\Server.exe
+G:\Server\Server\bin\Debug\Server.pdb
+G:\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\Server\Server\obj\Debug\MainWindow.g.cs
+G:\Server\Server\obj\Debug\App.g.cs
+G:\Server\Server\obj\Debug\Server_MarkupCompile.cache
+G:\Server\Server\obj\Debug\Server_MarkupCompile.lref
+G:\Server\Server\obj\Debug\MainWindow.baml
+G:\Server\Server\obj\Debug\Server.g.resources
+G:\Server\Server\obj\Debug\Server.Properties.Resources.resources
+G:\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Programacion III\ClienteServidorV1\Server\Server\bin\Debug\Server.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\ClienteServidorV1\Server\Server\obj\Debug\Server.exe
+G:\Univalle\2 UNIVALLE\Programacion III\ClienteServidorV1\Server\Server\obj\Debug\Server.pdb

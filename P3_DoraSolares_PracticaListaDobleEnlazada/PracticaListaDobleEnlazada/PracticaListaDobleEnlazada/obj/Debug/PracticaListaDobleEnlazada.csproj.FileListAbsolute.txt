@@ -1,0 +1,13 @@
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\bin\Debug\PracticaListaDobleEnlazada.exe.config
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\bin\Debug\PracticaListaDobleEnlazada.exe
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\bin\Debug\PracticaListaDobleEnlazada.pdb
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.csprojResolveAssemblyReference.cache
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\MainWindow.baml
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\MainWindow.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\App.g.cs
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada_MarkupCompile.cache
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.g.resources
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.Properties.Resources.resources
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.csproj.GenerateResource.Cache
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.exe
+c:\users\dsa\documents\visual studio 2013\Projects\PracticaListaDobleEnlazada\PracticaListaDobleEnlazada\obj\Debug\PracticaListaDobleEnlazada.pdb

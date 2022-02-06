@@ -1,0 +1,15 @@
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\bin\Debug\PracticaEventos.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\bin\Debug\PracticaEventos.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\bin\Debug\PracticaEventos.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\Tele.baml
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\Tele.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.exe
+D:\Univalle\2 UNIVALLE\Programacion III\PracticaEventos\PracticaEventos\obj\Debug\PracticaEventos.pdb

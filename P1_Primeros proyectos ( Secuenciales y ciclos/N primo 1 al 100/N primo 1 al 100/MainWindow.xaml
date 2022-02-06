@@ -1,0 +1,14 @@
+﻿<Window x:Class="N_primo_1_al_100.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:N_primo_1_al_100"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="371.809" Width="404.255">
+    <Grid>
+        <Button x:Name="btnmostrar" Content="Mostrar" HorizontalAlignment="Left" Margin="104,21,0,0" VerticalAlignment="Top" Width="177" Height="37" Click="btnmostrar_Click"/>
+        <TextBox x:Name="txtmostrar" HorizontalAlignment="Left" Height="229" Margin="31,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+
+    </Grid>
+</Window>

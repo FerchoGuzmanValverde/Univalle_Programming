@@ -1,0 +1,16 @@
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\bin\Debug\Arbol_Insersion.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\bin\Debug\Arbol_Insersion.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\bin\Debug\Arbol_Insersion.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.csprojResolveAssemblyReference.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\MainWindow.baml
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\MainWindow.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\App.g.cs
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion_MarkupCompile.cache
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.g.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.Properties.Resources.resources
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.csproj.GenerateResource.Cache
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.exe
+D:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\bin\Debug\Arbol_Insersion.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.exe
+G:\Univalle\2 UNIVALLE\Programacion III\Arbol_Insersion\Arbol_Insersion\obj\Debug\Arbol_Insersion.pdb

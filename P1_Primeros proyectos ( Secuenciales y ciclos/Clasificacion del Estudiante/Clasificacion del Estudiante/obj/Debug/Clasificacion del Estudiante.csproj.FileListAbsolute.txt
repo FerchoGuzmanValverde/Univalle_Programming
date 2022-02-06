@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\bin\Debug\Clasificacion del Estudiante.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\bin\Debug\Clasificacion del Estudiante.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\bin\Debug\Clasificacion del Estudiante.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion_del_Estudiante.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Clasificacion del Estudiante\Clasificacion del Estudiante\obj\Debug\Clasificacion del Estudiante.pdb

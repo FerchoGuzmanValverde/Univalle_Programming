@@ -1,0 +1,12 @@
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\bin\Debug\ProxyTrue.exe.config
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\bin\Debug\ProxyTrue.exe
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\bin\Debug\ProxyTrue.pdb
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\MainWindow.baml
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\App.g.cs
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue_MarkupCompile.cache
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue.g.resources
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue.Properties.Resources.resources
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue.csproj.GenerateResource.Cache
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue.exe
+C:\Users\Fernando Guzman\Downloads\ProxyTrue\ProxyTrue\obj\Debug\ProxyTrue.pdb

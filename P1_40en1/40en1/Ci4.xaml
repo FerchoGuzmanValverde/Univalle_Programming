@@ -1,0 +1,27 @@
+﻿<Window x:Class="_40en1.Ci4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_40en1"
+        mc:Ignorable="d"
+        Title="Ci4" Height="279.452" Width="247.26" Background="#FFFFF51D">
+    <Grid>
+        <Button x:Name="btnresgistrar" Content="Registrar" HorizontalAlignment="Left" Margin="68,41,0,0" VerticalAlignment="Top" Width="83" Click="btnresgistrar_Click" Height="24" Background="#FFF3EA28" FontFamily="Showcard Gothic" BorderBrush="#FF191515"/>
+        <Label Content="Lista de Asistentes a la Fiesta" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="197" FontFamily="Showcard Gothic"/>
+        <Label Content="Total asistentes:" HorizontalAlignment="Left" Margin="29,78,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="H:" HorizontalAlignment="Left" Margin="29,109,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="M:" HorizontalAlignment="Left" Margin="105,109,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="Promedio de Edades" HorizontalAlignment="Left" Margin="29,140,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="H:" HorizontalAlignment="Left" Margin="29,171,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="M:" HorizontalAlignment="Left" Margin="105,171,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label Content="Edad mas joven:" HorizontalAlignment="Left" Margin="29,202,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Semibold"/>
+        <Label x:Name="lbltotalasistentes" Content="-----" HorizontalAlignment="Left" Margin="139,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbltotalhombres" Content="----" HorizontalAlignment="Left" Margin="55,109,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbltotalmujeres" Content="----" HorizontalAlignment="Left" Margin="139,109,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblprohombres" Content="-----" HorizontalAlignment="Left" Margin="55,171,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblpromujeres" Content="-----" HorizontalAlignment="Left" Margin="139,171,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblmasjoven" Content="-----" HorizontalAlignment="Left" Margin="139,202,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.exe.config
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.exe
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.pdb
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\MainWindow.g.cs
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\App.g.cs
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1_MarkupCompile.cache
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1_MarkupCompile.lref
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\MainWindow.baml
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.g.resources
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.Properties.Resources.resources
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.csproj.GenerateResource.Cache
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.exe
+c:\users\frank\documents\visual studio 2015\Projects\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.exe.config
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\bin\Debug\EjercicioSliderGrupo1.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\MainWindow.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\App.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1_MarkupCompile.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1_MarkupCompile.lref
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\MainWindow.baml
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.g.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.Properties.Resources.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.csproj.GenerateResource.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.csproj.CoreCompileInputs.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\EjercicioSliderGrupo1\EjercicioSliderGrupo1\obj\Debug\EjercicioSliderGrupo1.pdb

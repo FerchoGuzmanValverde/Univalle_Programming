@@ -1,0 +1,24 @@
+﻿<Window x:Class="Porcentajes_de_invercion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Porcentajes_de_invercion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Calcular porcentajes de invercion" HorizontalAlignment="Left" Margin="142,10,0,0" VerticalAlignment="Top" Width="215"/>
+        <Label Content="1ra cantidad" HorizontalAlignment="Left" Margin="21,66,0,0" VerticalAlignment="Top" Width="126"/>
+        <Label Content="2da cantidad" HorizontalAlignment="Left" Margin="21,106,0,0" VerticalAlignment="Top" Width="126"/>
+        <Label Content="3ra cantidad" HorizontalAlignment="Left" Margin="21,150,0,0" VerticalAlignment="Top" Width="113"/>
+        <TextBox x:Name="txtprimero" HorizontalAlignment="Left" Height="23" Margin="168,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtsegundo" HorizontalAlignment="Left" Height="23" Margin="168,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txttercero" HorizontalAlignment="Left" Height="23" Margin="168,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblprimero" Content="" HorizontalAlignment="Left" Margin="368,66,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label x:Name="lblsegundo" Content="" HorizontalAlignment="Left" Margin="368,106,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label x:Name="lbltercero" Content="" HorizontalAlignment="Left" Margin="368,150,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label Content="%" HorizontalAlignment="Left" Margin="368,35,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btncalcular" Content="Calcular" HorizontalAlignment="Left" Margin="185,200,0,0" VerticalAlignment="Top" Width="187"/>
+
+    </Grid>
+</Window>

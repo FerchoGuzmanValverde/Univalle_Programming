@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\bin\Debug\Porcentaje de alumnos reprovados.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\bin\Debug\Porcentaje de alumnos reprovados.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\bin\Debug\Porcentaje de alumnos reprovados.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje_de_alumnos_reprovados.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Porcentaje de alumnos reprovados\Porcentaje de alumnos reprovados\obj\Debug\Porcentaje de alumnos reprovados.pdb

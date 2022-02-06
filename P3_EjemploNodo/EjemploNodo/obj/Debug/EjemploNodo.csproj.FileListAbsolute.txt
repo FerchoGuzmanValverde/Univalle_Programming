@@ -1,0 +1,17 @@
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\bin\Debug\EjemploNodo.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\bin\Debug\EjemploNodo.exe
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\bin\Debug\EjemploNodo.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.exe
+G:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\bin\Debug\EjemploNodo.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.exe
+D:\Univalle\2 UNIVALLE\Programacion III\EjemploNodo\EjemploNodo\obj\Debug\EjemploNodo.pdb

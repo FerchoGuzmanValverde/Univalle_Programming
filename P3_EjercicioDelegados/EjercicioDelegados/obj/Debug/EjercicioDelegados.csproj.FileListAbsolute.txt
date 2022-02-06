@@ -1,0 +1,17 @@
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\bin\Debug\EjercicioDelegados.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\bin\Debug\EjercicioDelegados.exe
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\bin\Debug\EjercicioDelegados.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.csprojResolveAssemblyReference.cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\MainWindow.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\App.g.cs
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados_MarkupCompile.cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados_MarkupCompile.lref
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\MainWindow.baml
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.g.resources
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.Properties.Resources.resources
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.csproj.GenerateResource.Cache
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.exe
+G:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.pdb
+D:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\bin\Debug\EjercicioDelegados.exe.config
+D:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.exe
+D:\Univalle\2 UNIVALLE\Programacion III\EjercicioDelegados\EjercicioDelegados\obj\Debug\EjercicioDelegados.pdb

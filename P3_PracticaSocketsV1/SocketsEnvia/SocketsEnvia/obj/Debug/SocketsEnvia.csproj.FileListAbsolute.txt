@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\bin\Debug\SocketsEnvia.exe.config
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\bin\Debug\SocketsEnvia.exe
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\bin\Debug\SocketsEnvia.pdb
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\obj\Debug\SocketsEnvia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\obj\Debug\SocketsEnvia.exe
+C:\Users\Usuario\Desktop\SocketsEnvia\SocketsEnvia\obj\Debug\SocketsEnvia.pdb
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsEnvia\SocketsEnvia\bin\Debug\SocketsEnvia.exe.config
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsEnvia\SocketsEnvia\obj\Debug\SocketsEnvia.exe
+G:\Univalle\2 UNIVALLE\Programacion III\PracticaSocketsV1\SocketsEnvia\SocketsEnvia\obj\Debug\SocketsEnvia.pdb

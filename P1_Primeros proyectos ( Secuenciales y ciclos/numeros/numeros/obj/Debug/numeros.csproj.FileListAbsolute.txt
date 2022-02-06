@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\bin\Debug\numeros.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\bin\Debug\numeros.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\bin\Debug\numeros.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\numeros\numeros\obj\Debug\numeros.pdb

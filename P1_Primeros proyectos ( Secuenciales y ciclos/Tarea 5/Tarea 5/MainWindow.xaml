@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tarea_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="368.499" Width="228.418">
+    <Grid>
+        <Button x:Name="btncalcular" Content="Empezar" HorizontalAlignment="Left" Margin="42,23,0,0" VerticalAlignment="Top" Width="103" Height="30" Click="btncalcular_Click"/>
+        <TextBox x:Name="txtrespuesta" HorizontalAlignment="Left" Height="242" Margin="25,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146"/>
+
+    </Grid>
+</Window>

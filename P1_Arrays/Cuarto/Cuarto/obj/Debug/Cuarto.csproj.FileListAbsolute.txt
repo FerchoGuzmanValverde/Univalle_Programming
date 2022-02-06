@@ -1,0 +1,30 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\bin\Debug\Cuarto.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\Visual Studio\WPF C#\Arrays\Cuarto\Cuarto\obj\Debug\Cuarto.pdb

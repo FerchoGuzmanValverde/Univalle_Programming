@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\bin\Debug\Rombo con Whiles.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\bin\Debug\Rombo con Whiles.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\bin\Debug\Rombo con Whiles.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo_con_Whiles.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Primeros proyectos ( Secuenciales y ciclos\Rombo con Whiles\Rombo con Whiles\obj\Debug\Rombo con Whiles.pdb

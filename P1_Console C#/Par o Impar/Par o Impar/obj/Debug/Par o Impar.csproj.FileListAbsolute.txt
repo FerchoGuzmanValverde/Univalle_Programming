@@ -1,0 +1,7 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\bin\Debug\Par o Impar.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\bin\Debug\Par o Impar.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\bin\Debug\Par o Impar.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\obj\Debug\Par o Impar.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\obj\Debug\Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\obj\Debug\Par o Impar.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\Console C#\Par o Impar\Par o Impar\obj\Debug\Par o Impar.pdb

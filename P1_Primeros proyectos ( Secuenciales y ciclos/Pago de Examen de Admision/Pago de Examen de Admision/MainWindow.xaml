@@ -1,0 +1,25 @@
+﻿<Window x:Class="Pago_de_Examen_de_Admision.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pago_de_Examen_de_Admision"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="309" Width="366">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="0.417"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Pago por Examen" HorizontalAlignment="Left" Margin="73,22,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingrese colegio Estatal/Privado" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingrese Categoria A/B/C" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtcolegio" HorizontalAlignment="Left" Height="23" Margin="201,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtcategoria" HorizontalAlignment="Left" Height="23" Margin="201,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btncalcular" Content="Calcular importe de examen" HorizontalAlignment="Left" Margin="64,145,0,0" VerticalAlignment="Top" Width="201" Click="btncalcular_Click"/>
+        <Label x:Name="lblrespuesta" Content="" HorizontalAlignment="Left" Margin="101,186,0,0" VerticalAlignment="Top" Width="121"/>
+
+    </Grid>
+</Window>

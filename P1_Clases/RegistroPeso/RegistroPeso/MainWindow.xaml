@@ -1,0 +1,99 @@
+﻿<Window x:Class="RegistroPeso.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RegistroPeso"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="862.183" BorderBrush="#FF91E813">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagen/Queso.png"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label Content="REGISTRO DE PESO" HorizontalAlignment="Left" Margin="127,18,0,0" VerticalAlignment="Top" Width="161" FontSize="16" FontFamily="Segoe UI Black"/>
+        <ListBox x:Name="lstdetalles" HorizontalAlignment="Left" Height="80" Margin="194,79,0,0" VerticalAlignment="Top" Width="643"/>
+        <TextBox x:Name="txtgenerales" HorizontalAlignment="Left" Height="143" Margin="206,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"/>
+        <Button x:Name="btncalcular" Content="Registrar" HorizontalAlignment="Left" Margin="38,377,0,0" VerticalAlignment="Top" Width="109" Click="btncalcular_Click" BorderBrush="#FF3AD43A" Background="#FF93EC85"/>
+        <Button x:Name="btngenerales" Content="Sacar Datos Generales" HorizontalAlignment="Left" Margin="241,362,0,0" VerticalAlignment="Top" Width="140" Click="btngenerales_Click" Background="#FFB4EA8E"/>
+        <Grid x:Name="Grafica1" HorizontalAlignment="Left" Height="143" Margin="447,226,0,0" VerticalAlignment="Top" Width="380">
+        </Grid>
+        <GroupBox Header="Nombre                IMC                Categoria" Height="100" Margin="194,59,0,0" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" BorderBrush="#FF268FCF" HorizontalAlignment="Left" Width="643" Background="#FF7CA4DE"/>
+        <Grid Margin="447,200,27,50">
+            <GroupBox x:Name="Grafica" Header="Grafico" HorizontalAlignment="Left" Height="159" VerticalAlignment="Top" Width="380" FontWeight="Bold" FontStyle="Italic" BorderBrush="#FF3FA6E4" Background="#FF7196F7"/>
+            <ItemsControl ItemsSource="{Binding}" Margin="0,-9,0,10" BorderBrush="#FF142C99">
+                <ItemsControl.Background>
+                    <ImageBrush ImageSource="Imagen/Queso.png"/>
+                </ItemsControl.Background>
+
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"></StackPanel>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="10,10,10,80" VerticalAlignment="Bottom">
+                            <Border Name="br" Margin="3,10,3,10"  CornerRadius="5" 
+                                Background="{Binding Color}"
+                                Width="20" BorderBrush="{Binding Color}"  
+                                BorderThickness="3" 
+                                Height="{Binding Data}">
+                                <Border.Triggers>
+                                    <EventTrigger RoutedEvent="Border.Loaded">
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <DoubleAnimation From="0"  
+                                                             Storyboard.TargetName="br" 
+                                 Storyboard.TargetProperty="(FrameworkElement.Height)" 
+                                                              Duration="0:0:02.0">
+
+                                                </DoubleAnimation>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Border.Triggers>
+                            </Border>
+                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold" 
+                                   FontFamily="Latha" Text="{Binding Data}">
+                                <TextBlock.RenderTransform>
+                                    <TranslateTransform Y="-30"/>
+                                </TextBlock.RenderTransform>
+                            </TextBlock>
+                            <TextBlock HorizontalAlignment="Center" Foreground="{Binding Color}"
+                                   FontWeight="Bold" FontFamily="Latha" 
+                                   Text="{Binding Name}">
+                                <TextBlock.RenderTransform>
+                                    <TranslateTransform Y="-20"/>
+                                </TextBlock.RenderTransform>
+                            </TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+
+            </ItemsControl>
+        </Grid>
+        <GroupBox Header="Resultados Generales" HorizontalAlignment="Left" Height="169" Margin="194,181,0,0" VerticalAlignment="Top" Width="234" FontWeight="Bold" FontStyle="Italic" BorderBrush="#FF3F9FD8" Background="#FF7195E2">
+            <TextBox x:Name="txtgenerales1" HorizontalAlignment="Left" Height="149" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" Margin="0,0,-2,-2"/>
+        </GroupBox>
+        <GroupBox Header="Datos" HorizontalAlignment="Left" Height="314" Margin="10,49,0,0" VerticalAlignment="Top" Width="167" FontWeight="Bold" BorderBrush="#FF6853F1">
+            <Grid HorizontalAlignment="Left" Height="291" VerticalAlignment="Top" Width="137">
+                <Label Content="Ingrese Nombre:" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtnombre" HorizontalAlignment="Left" Height="23" Margin="10,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFE9F3F1"/>
+                <TextBox x:Name="txtpeso" HorizontalAlignment="Left" Height="23" Margin="10,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD9F5F7"/>
+                <Label Content="Ingrese Altura:" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtaltura" HorizontalAlignment="Left" Height="23" Margin="10,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFBDFDFA"/>
+                <Label Content="Ingrese Peso:" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top"/>
+                <Label Content="Edad" HorizontalAlignment="Left" Margin="10,171,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.161,-1.944"/>
+                <TextBox x:Name="txtedad" HorizontalAlignment="Left" Height="23" Margin="10,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FF84F5E6"/>
+                <Label Content="Sexo" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rbthombre" Content="Hombre" HorizontalAlignment="Left" Margin="35,256,0,0" VerticalAlignment="Top" Background="#FF3AF5BA"/>
+                <RadioButton x:Name="rbtmujer" Content="Mujer" HorizontalAlignment="Left" Margin="35,276,0,0" VerticalAlignment="Top" Background="#FF45EEC0"/>
+            </Grid>
+        </GroupBox>
+        <ListBox x:Name="lstdetalles1" Height="83" Margin="194,76,17,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

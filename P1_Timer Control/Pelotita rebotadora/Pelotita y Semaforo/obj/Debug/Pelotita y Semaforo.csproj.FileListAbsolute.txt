@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\bin\Debug\Pelotita y Semaforo.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\bin\Debug\Pelotita y Semaforo.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\bin\Debug\Pelotita y Semaforo.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita_y_Semaforo.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita y Semaforo\Pelotita y Semaforo\obj\Debug\Pelotita y Semaforo.pdb

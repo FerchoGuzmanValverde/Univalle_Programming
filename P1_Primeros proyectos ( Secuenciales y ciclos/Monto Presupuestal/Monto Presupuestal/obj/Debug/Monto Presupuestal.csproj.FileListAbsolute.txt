@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\bin\Debug\Monto Presupuestal.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\bin\Debug\Monto Presupuestal.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\bin\Debug\Monto Presupuestal.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto_Presupuestal.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Monto Presupuestal\Monto Presupuestal\obj\Debug\Monto Presupuestal.pdb

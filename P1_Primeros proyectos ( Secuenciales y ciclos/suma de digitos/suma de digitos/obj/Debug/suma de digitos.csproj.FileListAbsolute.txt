@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\bin\Debug\suma de digitos.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\bin\Debug\suma de digitos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\bin\Debug\suma de digitos.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma_de_digitos.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\suma de digitos\suma de digitos\obj\Debug\suma de digitos.pdb

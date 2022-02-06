@@ -1,0 +1,19 @@
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\bin\Debug\Menu.exe
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\bin\Debug\Menu.pdb
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\MainWindow.g.cs
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\App.g.cs
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\MainWindow.baml
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.g.resources
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.exe
+H:\PROGRA 2\Expo3.Menu-TorricoF.D.D\Menu\Menu\obj\Debug\Menu.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\MainWindow.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\App.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\Expociciones\Menu bar expocicion\Menu\Menu\obj\Debug\Menu.exe

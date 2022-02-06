@@ -1,0 +1,16 @@
+﻿<Window x:Class="PracticaEventos2.Registrar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registrar" Height="300" Width="300">
+    <Grid>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="19,29,0,0" VerticalAlignment="Top"/>
+        <Label Content="CI:" HorizontalAlignment="Left" Margin="19,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Edad:" HorizontalAlignment="Left" Margin="19,91,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCI" HorizontalAlignment="Left" Height="23" Margin="117,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtCI_TextChanged"/>
+        <TextBox x:Name="txtEdad" HorizontalAlignment="Left" Height="23" Margin="117,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtEdad_TextChanged"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="117,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtNombre_TextChanged"/>
+        <Button x:Name="btnCancelar" Content="Cancel" HorizontalAlignment="Left" Margin="19,151,0,0" VerticalAlignment="Top" Width="102" Height="44" Click="btnCancelar_Click"/>
+        <Button x:Name="txtOk" Content="OK" HorizontalAlignment="Left" Margin="140,151,0,0" VerticalAlignment="Top" Width="97" Height="44" Click="txtOk_Click"/>
+
+    </Grid>
+</Window>

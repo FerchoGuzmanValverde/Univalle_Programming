@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\bin\Debug\Pago de Examen de Admision.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\bin\Debug\Pago de Examen de Admision.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\bin\Debug\Pago de Examen de Admision.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago_de_Examen_de_Admision.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Pago de Examen de Admision\Pago de Examen de Admision\obj\Debug\Pago de Examen de Admision.pdb

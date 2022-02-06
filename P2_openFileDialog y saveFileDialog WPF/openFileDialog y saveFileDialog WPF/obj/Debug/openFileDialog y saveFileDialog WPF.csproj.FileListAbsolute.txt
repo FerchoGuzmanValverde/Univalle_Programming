@@ -1,0 +1,57 @@
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe.config
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.pdb
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.baml
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.g.cs
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\App.g.cs
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF_MarkupCompile.cache
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.g.resources
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog_y_saveFileDialog_WPF.Properties.Resources.resources
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.GenerateResource.Cache
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.exe
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.pdb
+C:\Users\univalle\Desktop\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csprojResolveAssemblyReference.cache
+F:\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe.config
+F:\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.exe
+F:\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe.config
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.pdb
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.baml
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\App.g.cs
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF_MarkupCompile.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.g.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog_y_saveFileDialog_WPF.Properties.Resources.resources
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.GenerateResource.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.CoreCompileInputs.cache
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.exe
+D:\Desktop\Computer Science\1 anio UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.pdb
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe.config
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.pdb
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csprojResolveAssemblyReference.cache
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.baml
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.g.cs
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\App.g.cs
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF_MarkupCompile.cache
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.g.resources
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog_y_saveFileDialog_WPF.Properties.Resources.resources
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.GenerateResource.cache
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.CoreCompileInputs.cache
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.exe
+D:\Desktop\COMPUTER SCIENCE\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.pdb
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe.config
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.exe
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.pdb
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.exe
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\bin\Debug\openFileDialog y saveFileDialog WPF.pdb
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csprojResolveAssemblyReference.cache
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.baml
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\MainWindow.g.cs
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\App.g.cs
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF_MarkupCompile.cache
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.g.resources
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog_y_saveFileDialog_WPF.Properties.Resources.resources
+G:\Univalle\1 UNIVALLE\2 Programacion II\openFileDialog y saveFileDialog WPF\openFileDialog y saveFileDialog WPF\obj\Debug\openFileDialog y saveFileDialog WPF.csproj.GenerateResource.Cache

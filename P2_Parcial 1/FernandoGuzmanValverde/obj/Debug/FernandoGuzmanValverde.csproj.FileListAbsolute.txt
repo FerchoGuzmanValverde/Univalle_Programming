@@ -1,0 +1,15 @@
+C:\Users\Pc\Downloads\FernandoGuzmanValverde\FernandoGuzmanValverde\bin\Debug\FernandoGuzmanValverde.exe.config
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\bin\Debug\FernandoGuzmanValverde.exe.config
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\bin\Debug\FernandoGuzmanValverde.exe
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\bin\Debug\FernandoGuzmanValverde.pdb
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.csprojResolveAssemblyReference.cache
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\MainWindow.baml
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\MainWindow.g.cs
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\App.g.cs
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde_MarkupCompile.cache
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.g.resources
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.Properties.Resources.resources
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.csproj.GenerateResource.cache
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.exe
+D:\Desktop\Projects\Sofware programming\2 Semestre Univalle\WPF\Parcial 1\FernandoGuzmanValverde\obj\Debug\FernandoGuzmanValverde.pdb

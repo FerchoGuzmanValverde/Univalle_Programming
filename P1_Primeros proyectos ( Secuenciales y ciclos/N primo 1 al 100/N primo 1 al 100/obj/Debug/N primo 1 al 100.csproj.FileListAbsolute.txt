@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\bin\Debug\N primo 1 al 100.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\bin\Debug\N primo 1 al 100.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\bin\Debug\N primo 1 al 100.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N_primo_1_al_100.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\N primo 1 al 100\N primo 1 al 100\obj\Debug\N primo 1 al 100.pdb

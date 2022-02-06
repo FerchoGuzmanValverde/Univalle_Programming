@@ -1,0 +1,15 @@
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\App.g.cs
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado_MarkupCompile.cache
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado_MarkupCompile.lref
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\bin\Debug\Salario Empleado.exe.config
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\bin\Debug\Salario Empleado.exe
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\bin\Debug\Salario Empleado.pdb
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\MainWindow.baml
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.g.resources
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario_Empleado.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.csproj.GenerateResource.Cache
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.exe
+C:\Users\Fernando\source\repos\Salario Empleado\Salario Empleado\obj\Debug\Salario Empleado.pdb

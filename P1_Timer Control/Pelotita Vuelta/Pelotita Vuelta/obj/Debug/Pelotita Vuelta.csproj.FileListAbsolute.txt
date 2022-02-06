@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\bin\Debug\Pelotita Vuelta.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\bin\Debug\Pelotita Vuelta.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\bin\Debug\Pelotita Vuelta.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita_Vuelta.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.exe
+C:\Users\Fernando\Desktop\Programming Projects\Sofware programming\Visual Studio\WPF C#\Timer Control\Pelotita Vuelta\Pelotita Vuelta\obj\Debug\Pelotita Vuelta.pdb

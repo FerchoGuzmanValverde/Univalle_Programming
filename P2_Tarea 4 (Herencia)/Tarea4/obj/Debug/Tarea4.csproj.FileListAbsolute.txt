@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea4\Tarea4\obj\Debug\Tarea4.pdb

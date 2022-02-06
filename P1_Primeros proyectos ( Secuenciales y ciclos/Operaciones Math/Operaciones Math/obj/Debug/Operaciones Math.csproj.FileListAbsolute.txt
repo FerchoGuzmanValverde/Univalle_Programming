@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\bin\Debug\Operaciones Math.exe.config
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\bin\Debug\Operaciones Math.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\bin\Debug\Operaciones Math.pdb
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.g.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones_Math.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.exe
+C:\Users\Fernando\Desktop\Programming Projects\Visual Studio\WPF C#\Metodos\Primeros proyectos ( Secuenciales y ciclos\Operaciones Math\Operaciones Math\obj\Debug\Operaciones Math.pdb

@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\bin\Debug\Porcentaje de Alumnos.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\bin\Debug\Porcentaje de Alumnos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\bin\Debug\Porcentaje de Alumnos.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje_de_Alumnos.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.exe
+C:\Users\Fernando\Desktop\Proyectos VS\Porcentaje de Alumnos\Porcentaje de Alumnos\obj\Debug\Porcentaje de Alumnos.pdb

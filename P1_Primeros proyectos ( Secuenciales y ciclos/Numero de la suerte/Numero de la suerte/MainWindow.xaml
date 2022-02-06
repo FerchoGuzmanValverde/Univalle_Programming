@@ -1,0 +1,19 @@
+﻿<Window x:Class="Numero_de_la_suerte.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Numero_de_la_suerte"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="284.043" Width="302.128">
+    <Grid>
+        <Label Content="dia" HorizontalAlignment="Left" Margin="34,51,0,0" VerticalAlignment="Top"/>
+        <Label Content="mes" HorizontalAlignment="Left" Margin="34,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="year" HorizontalAlignment="Left" Margin="34,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtdia" HorizontalAlignment="Left" Height="23" Margin="120,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtmes" HorizontalAlignment="Left" Height="23" Margin="120,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtyear" HorizontalAlignment="Left" Height="23" Margin="120,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnnsuerte" Content="Sacar mi numero de la suerte" HorizontalAlignment="Left" Margin="34,168,0,0" VerticalAlignment="Top" Width="215" Click="btnnsuerte_Click"/>
+
+    </Grid>
+</Window>

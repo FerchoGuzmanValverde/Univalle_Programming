@@ -1,0 +1,41 @@
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe.config
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.pdb
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csprojResolveAssemblyReference.cache
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.baml
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\App.g.cs
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN_MarkupCompile.cache
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.g.resources
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando_GUZMAN.Properties.Resources.resources
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csproj.GenerateResource.Cache
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.exe
+C:\Users\Usuario-PC\Documents\Visual Studio 2013\Projects\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando_GUZMAN.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Tarea 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe.config
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\bin\Debug\Fernando GUZMAN.pdb
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.g.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando_GUZMAN.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.exe
+C:\Users\Fernando\Desktop\Projects\Sofware programming\2 Semestre\WPF\Trabajo en Clase 2\Fernando GUZMAN\Fernando GUZMAN\obj\Debug\Fernando GUZMAN.pdb

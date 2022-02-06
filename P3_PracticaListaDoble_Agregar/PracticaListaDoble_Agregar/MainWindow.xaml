@@ -1,0 +1,13 @@
+﻿<Window x:Class="PracticaListaDoble_Agregar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Ingrese numero:" HorizontalAlignment="Left" Margin="37,31,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtvalor" HorizontalAlignment="Left" Height="23" Margin="188,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgregar" Content="Ascendiente" HorizontalAlignment="Left" Margin="37,74,0,0" VerticalAlignment="Top" Width="96" Height="39" Click="btnAgregar_Click"/>
+        <TextBox x:Name="txtMostrar" HorizontalAlignment="Left" Height="185" Margin="188,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnDesc" Content="Descendiento" HorizontalAlignment="Left" Margin="37,132,0,0" VerticalAlignment="Top" Width="96" Height="37" Click="btnDesc_Click"/>
+
+    </Grid>
+</Window>

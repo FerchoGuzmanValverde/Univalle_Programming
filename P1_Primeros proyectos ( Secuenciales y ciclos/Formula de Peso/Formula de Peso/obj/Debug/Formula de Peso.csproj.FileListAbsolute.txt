@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\bin\Debug\Formula de Peso.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\bin\Debug\Formula de Peso.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\bin\Debug\Formula de Peso.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula_de_Peso.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Formula de Peso\Formula de Peso\obj\Debug\Formula de Peso.pdb

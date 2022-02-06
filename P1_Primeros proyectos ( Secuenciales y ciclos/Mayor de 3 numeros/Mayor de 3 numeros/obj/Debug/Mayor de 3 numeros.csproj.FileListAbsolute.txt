@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\bin\Debug\Mayor de 3 numeros.exe.config
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\bin\Debug\Mayor de 3 numeros.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\bin\Debug\Mayor de 3 numeros.pdb
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.g.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor_de_3_numeros.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.exe
+C:\Users\Fernando\Desktop\Proyectos VS\WPF C#\Mayor de 3 numeros\Mayor de 3 numeros\obj\Debug\Mayor de 3 numeros.pdb
